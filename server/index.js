@@ -73,37 +73,41 @@ app.post('/create', (req, res) => {
         res.status(400).send('Invalid type specified');
     }
 });
-
 app.get('/employers', (req, res) => {
-    db.query("SELECT * FROM employers", (err, result) => {
-      if (err) {
-        res.status(500).send(err);
-      } else {
-        res.status(200).send(result);
-      }
-    });
+  db.query("SELECT * FROM Employers", (err, results) => {
+    if (err) {
+      console.error('Error fetching employers: ', err);
+      res.status(500).send('Error fetching employers');
+      return;
+    }
+    res.status(200).json(results);
   });
+});
+
+// Endpoint to get jobs
 app.get('/jobs', (req, res) => {
-    db.query("SELECT * FROM jobs", (err, result) => {
-      if (err) {
-        res.status(500).send(err);
-      } else {
-        res.status(200).send(result);
-      }
-    });
-  })
-  
+  db.query("SELECT * FROM Jobs", (err, results) => {
+    if (err) {
+      console.error('Error fetching jobs: ', err);
+      res.status(500).send('Error fetching jobs');
+      return;
+    }
+    res.status(200).json(results);
+  });
+});
+
+// Endpoint to get candidates
 app.get('/candidates', (req, res) => {
-      db.query("SELECT * FROM candidates", (err, result) => {
-        if (err) {
-          res.status(500).send(err);
-        } else {
-          res.status(200).send(result);
-        }
-      });
-    });
-  ;
+  db.query("SELECT * FROM Candidates", (err, results) => {
+    if (err) {
+      console.error('Error fetching candidates: ', err);
+      res.status(500).send('Error fetching candidates');
+      return;
+    }
+    res.status(200).json(results);
+  });
+});
 
 app.listen(3001, () => {
-    console.log("Server is running on port 3001");
+  console.log("Server is running on port 3001");
 });
