@@ -9,7 +9,7 @@ const db = mysql2.createConnection({
     user: "root",
     host: "localhost",
     password: "12345678",
-    database: "jobsearch_new"
+    database: "JobPortal"
 });
 
 db.connect(function(err) {
@@ -87,7 +87,7 @@ app.post('/apply', (req, res) => {
     const AppStatus = "In Progress";
 
     const sqlInsert = "INSERT INTO ApplicationsLog (AppJobID, AppCandID,AppStatus) VALUES (?, ?, ?)";
-    
+
     db.query(sqlInsert, [AppJobID, AppCandID,AppStatus], (err, result) => {
         if (err) {
             console.error(err);
@@ -111,9 +111,9 @@ app.post('/create', (req, res) => {
                 res.status(500).send('Error while creating employee'+err.message);
             } else {
                 if (jobSkills && jobSkills.length > 0) {
-                    jobSkills.forEach(Skill_ID => {
+                    jobSkills.forEach(skillId => {
                         const sqlInsertJobSkill = "INSERT INTO candidateskills (CandSkillCandidateID, CandSkillSkillID) VALUES (?, ?)";
-                        db.query(sqlInsertJobSkill, [userID, Skill_ID], (err, result) => {
+                        db.query(sqlInsertJobSkill, [userID, skillId], (err, result) => {
                             if (err) {
                                 console.error('Error linking skill to job', err);
                             }
@@ -123,7 +123,7 @@ app.post('/create', (req, res) => {
                 res.status(201).send('Employee created successfully');
             }
         });
-
+        
     }  else if (type === 'Candidates') {
         // Assuming data contains { candidateId, qualification, experience }
         const { candidateId, qualification, experience } = data;
@@ -165,41 +165,32 @@ app.get('/candidate/:id', (req, res) => {
 app.get('/insights_candidate/:query', (req, res) => {
 
     let sqlQuery;
-
+    console.log(req.params.query)
     switch (req.params.query) {
       case 'mostDemandedSkills':
         sqlQuery = `
-        SELECT skills.Skill_Name, COUNT(jobSkills.JobSkillID) AS Demand
+        SELECT skills.SkillName, COUNT(jobSkills.SkillID) AS Demand
         FROM jobSkills
-        JOIN skills ON jobSkills.JobSkillID = skills.Skill_ID
-        GROUP BY jobSkills.JobSkillID, skills.Skill_Name
+        JOIN skills ON jobSkills.SkillID = skills.SkillID
+        GROUP BY jobSkills.SkillID, skills.SkillName
         ORDER BY Demand DESC
         LIMIT 5;`;
         break;
-
       case 'recruitersMultipleDomains':
         sqlQuery = `
-        SELECT skills.Skill_Name, COUNT(jobSkills.Skill_ID) AS Demand
+        SELECT skills.SkillName, COUNT(jobSkills.SkillID) AS Demand
         FROM jobSkills
-        JOIN skills ON jobSkills.Skill_ID = skills.Skill_ID
-        GROUP BY jobSkills.Skill_ID, skills.Skill_Name
+        JOIN skills ON jobSkills.SkillID = skills.SkillID
+        GROUP BY jobSkills.SkillID, skills.SkillName
         ORDER BY Demand DESC
-        LIMIT 5;`;
+        LIMIT 3;`;
         break;
-      case 'averageSalary':
-        sqlQuery = `
-        SELECT RecName, ROUND(AVG(Salary)) AS AverageSalary
-        FROM Jobs
-        JOIN Recruiters ON Jobs.JobsRecID = Recruiters.RecID
-        GROUP BY Jobs.JobsRecID;`;
-        break;
-      case 'popularJobRoles':
-        sqlQuery = `
-        SELECT RecName, AVG(Salary) AS AverageSalary
-        FROM Jobs
-        JOIN Recruiters ON Jobs.RecID = Recruiters.RecID
-        GROUP BY Jobs.RecID;`;
-        break;
+    //   case 'averageSalary':
+    //     sqlQuery = /* SQL Query 5 */;
+    //     break;
+    //   case 'popularJobRoles':
+    //     sqlQuery = /* SQL Query 7 */;
+    //     break;
       default:
         return res.status(400).send('Invalid query');
     }
@@ -209,7 +200,6 @@ app.get('/insights_candidate/:query', (req, res) => {
         console.error('Error executing query: ', err);
         return res.status(500).send('Error executing query');
       }
-      console.log(results)
       res.json(results);
     });
   });
@@ -221,11 +211,11 @@ app.get('/insights_recruiter/:query', (req, res) => {
 
         case 'candidatesWithSpecificSkill':
             sqlQuery = `
-            SELECT CandName, CandTotalExp, Skill_Name
+            SELECT CandName, CandTotalExp, SkillName
             FROM CandidateSkills
             JOIN candidates ON CandidateSkills.CandSkillCandidateID = candidates.CandidateID
-            JOIN skills ON CandidateSkills.CandSkillSkill_ID = skills.Skill_ID
-            WHERE Skill_Name = 'Machine Learning';`;
+            JOIN skills ON CandidateSkills.CandSkillSkillID = skills.SkillID
+            WHERE SkillName = 'Machine Learning';`;
             break;
 
         case 'candidatesNeverHired':
@@ -243,12 +233,12 @@ app.get('/insights_recruiter/:query', (req, res) => {
 
         case 'jobsWithUnpossessedSkill':
             sqlQuery = `
-            SELECT DISTINCT Jobs.JobID, skills.Skill_Name
+            SELECT DISTINCT Jobs.JobID, skills.SkillName
             FROM Jobs
             JOIN JobSkills ON Jobs.JobID = JobSkills.JobID
-            JOIN skills ON JobSkills.Skill_ID = skills.Skill_ID
-            WHERE JobSkills.Skill_ID NOT IN (
-                SELECT CandidateSkills.CandSkillSkill_ID
+            JOIN skills ON JobSkills.SkillID = skills.SkillID
+            WHERE JobSkills.SkillID NOT IN (
+                SELECT CandidateSkills.CandSkillSkillID
                 FROM CandidateSkills
             );`;
             break;
@@ -263,7 +253,7 @@ app.get('/insights_recruiter/:query', (req, res) => {
                         COUNT(*) AS JobCount,
                         RANK() OVER (PARTITION BY domain.Domain_Name ORDER BY COUNT(*) DESC) as RecRank
                     FROM Jobs
-                    JOIN Recruiters ON Jobs.JobsRecID = Recruiters.RecID
+                    JOIN Recruiters ON Jobs.RecID = Recruiters.RecID
                     JOIN domain ON Jobs.JobsDomainId = domain.Domain_ID
                     GROUP BY domain.Domain_Name, Recruiters.RecName
                 ) AS RankedRecruiters
@@ -294,8 +284,9 @@ app.get('/insights_recruiter/:query', (req, res) => {
     });
 });
 
+
 app.get('/skills', (req, res) => {
-    db.query("SELECT Skill_ID, Skill_Name FROM skills", (err, results) => {
+    db.query("SELECT SkillID, SkillName FROM skills", (err, results) => {
         if (err) {
             console.error('Error fetching skills: ', err);
             return res.status(500).send('Error fetching skills');
@@ -386,9 +377,9 @@ app.post('/create_recruiter', (req, res) => {
             console.log("jobID : ",jobID)
     
             if (jobSkills && jobSkills.length > 0) {
-                jobSkills.forEach(Skill_ID => {
-                    const sqlInsertJobSkill = "INSERT INTO jobSkills (JobID, Skill_ID) VALUES (?, ?)";
-                    db.query(sqlInsertJobSkill, [jobID, Skill_ID], (err, result) => {
+                jobSkills.forEach(skillId => {
+                    const sqlInsertJobSkill = "INSERT INTO jobSkills (JobID, SkillID) VALUES (?, ?)";
+                    db.query(sqlInsertJobSkill, [jobID, skillId], (err, result) => {
                         if (err) {
                             console.error('Error linking skill to job', err);
                         }
@@ -426,11 +417,11 @@ app.get('/recruiter/:id', (req, res) => {
     }); 
 });
 
+
 app.get('/jobs', (req, res) => {
     let sqlQuery = `
                 SELECT 
                 J.JobID, 
-                JR.JobRole,
                 J.JobDesc,
                 D.Domain_Name,
                 J.Salary, 
@@ -439,31 +430,13 @@ app.get('/jobs', (req, res) => {
                 E.EmpState 
             FROM Jobs AS J 
             JOIN Employer AS E ON J.JobsEmpID = E.EmpID
-            JOIN Domain AS D ON J.JobsDomainId = D.Domain_ID
-            JOIN Jobroles JR ON J.PostedJobRoleID = JR.JobRoleID`;
-
-
-        // SELECT 
-        //     J.JobID, 
-        //     J.JobDesc,
-        //     D.Domain_Name,
-        //     J.Salary, 
-        //     E.EnterpriseName, 
-        //     E.EmpCity, 
-        //     E.EmpState 
-        // FROM 
-        //     Jobs AS J 
-        // JOIN 
-        //     Employer AS E ON J.JobsEmpID = E.EmpID
-        // JOIN 
-        //     Domain AS D ON J.JobsDomainId = D.Domain_ID;
-
+            JOIN Domain AS D ON J.JobsDomainId = D.Domain_ID`;
 
     const { minSalary, maxSalary, companyName, stateName } = req.query;
     let filters = [];
     let filterValues = [];
 
-    // console.log(req.query)
+    console.log(req.query)
 
     if (minSalary && maxSalary) {
         filters.push(" J.Salary BETWEEN ? AND ? ");
@@ -493,16 +466,14 @@ app.get('/jobs', (req, res) => {
         sqlQuery += " WHERE " + filters.join(" AND ");
     }
 
-    console.log(sqlQuery)
+    // console.log(sqlQuery)
     // console.log(filterValues)
 
     db.query(sqlQuery, filterValues, (err, results) => {
         if (err) {
             console.error('Error fetching jobs: ', err);
-            console.log("ARE ENTRA IDI")
             return res.status(500).send('Error fetching jobs');
         }
-        console.log(results)
         res.status(200).json(results);
     });
 });
@@ -578,7 +549,7 @@ app.put('/updateAppStatus', (req, res) => {
     });
   });
 
-  app.get('/applicants_recruiter', (req, res) => {
+app.get('/applicants_recruiter', (req, res) => {
     const companyName = req.query.companyName;
     const candidateID = req.query.candidateID;
 
@@ -592,7 +563,7 @@ app.put('/updateAppStatus', (req, res) => {
             D.Domain_Name,
             AL.AppStatus
         FROM ApplicationsLog AL
-        JOIN Candidates C ON AL.AppCandID = C.CandName
+        JOIN Candidates C ON AL.AppCandID = C.CandidateID
         JOIN Jobs J ON AL.AppJobID = J.JobID
         JOIN Employer E ON J.JobsEmpID = E.EmpID
         JOIN Domain D ON J.JobsDomainId = D.Domain_ID

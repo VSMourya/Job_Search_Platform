@@ -1,0 +1,1001 @@
+EmployerID,company,sector,city,state,CEO,Website,Zip Code
+1,1-800-Flowers.com,Retailing,Jericho,NY,Christopher G. McCann,https://www.1800flowers.com,55144
+2,3M,Chemicals,St. Paul,MN,Michael F. Roman,www.3m.com,60064
+3,A.O. Smith,Industrials,Milwaukee,WI,Kevin J. Wheeler,https://www.aosmith.com,60064
+4,Abbott Laboratories,Health Care,Abbott Park,IL,Robert B. Ford,www.abbott.com,77449
+5,AbbVie,Health Care,North Chicago,IL,Richard A. Gonzalez,www.abbvie.com,90404
+6,Abercrombie & Fitch,Retailing,New Albany,OH,Fran Horowitz,https://www.abercrombie.com,95110
+7,ABM Industries,Business Services,New York,NY,Scott B. Salmirs,https://www.abm.com,27609
+8,Academy Sports and Outdoors,Retailing,Katy,TX,Ken C. Hicks,https://www.academy.com,95054
+9,Acadia Healthcare,Health Care,Franklin,TN,Christopher H. Hunter,https://www.acadiahealthcare.com,75240
+10,Activision Blizzard,Media,Santa Monica,CA,Robert A. Kotick,https://www.activisionblizzard.com,22203
+11,Acuity Brands,Industrials,Atlanta,GA,Neil M. Ashe,https://www.acuitybrands.com,31999
+12,Acushnet Holdings,"Hotels, Restaurants & Leisure",Fairhaven,MA,David Maher,https://www.acushnetholdingscorp.com,30096
+13,AdaptHealth,Health Care,Plymouth Meeting,PA,Stephen P. Griggs,https://www.adapthealth.com,18106
+14,Adobe,Technology,San Jose,CA,Shantanu Narayen,https://www.adobe.com,83706
+15,ADT,Business Services,Boca Raton,FL,James D. DeVries,https://www.adt.com,15212
+16,Advance Auto Parts,Retailing,Raleigh,NC,Thomas R. Greco,https://www.advanceautoparts.com,10018
+17,Advanced Micro Devices,Technology,Santa Clara,CA,Lisa Su,https://www.amd.com,60062
+18,Advantage Solutions,Business Services,Irvine,CA,Jill Griffin,https://www.advantagesolutions.net,48226
+19,AECOM,Engineering & Construction,Dallas,TX,W. Troy Rudd,https://www.aecom.com,94043
+20,Aerojet Rocketdyne Holdings,Aerospace & Defense,El Segundo,CA,Eileen P. Drake,https://www.aerojetrocketdyne.com,11101
+21,AES,Energy,Arlington,VA,AndrÃ©s R. Gluski,https://www.aes.com,23230
+22,Affiliated Managers Group,Financials,West Palm Beach,FL,Jay C. Horgen,https://www.amg.com,90245
+23,Aflac,Financials,Columbus,GA,Daniel P. Amos,https://www.aflac.com,98109
+24,AGCO,Industrials,Duluth,GA,Eric P. Hansotia,https://www.agcocorp.com,63103
+25,Agilent Technologies,Technology,Santa Clara,CA,Michael R. McMullen,https://www.agilent.com,76155
+26,Air Products & Chemicals,Chemicals,Allentown,PA,Seifi Ghasemi,https://www.airproducts.com,43215
+27,Airbnb,Technology,San Francisco,CA,Brian Chesky,https://www.airbnb.com,10285
+28,Akamai Technologies,Technology,Cambridge,MA,F. Thomson Leighton,https://www.akamai.com,53783
+29,Alaska Air Group,Transportation,Seattle,WA,Benito Minicucci,https://www.alaskaair.com,45202
+30,Albemarle,Chemicals,Charlotte,NC,J. Kent Masters,https://www.albemarle.com,10020
+31,Albertsons,Food & Drug Stores,Boise,ID,Vivek Sankaran,www.albertsonscompanies.com,2116
+32,Alcoa,Materials,Pittsburgh,PA,Roy C. Harvey,https://www.alcoa.com,55474
+33,Alexandria Real Estate Equities,Financials,Pasadena,CA,Peter M. Moglia,https://www.are.com,19428
+34,Alight,Business Services,Lincolnshire,IL,Stephan D. Scholl,https://www.alight.com,91320
+35,Align Technology,Health Care,Tempe,AZ,Joseph M. Hogan,https://www.aligntech.com,6492
+36,Alleghany,Financials,New York,NY,Joseph P. Brandon,https://www.alleghany.com,1887
+37,Alliant Energy,Energy,Madison,WI,John O. Larsen,https://www.alliantenergy.com,43537
+38,Allison Transmission Holdings,Motor Vehicles & Parts,Indianapolis,IN,David S. Graziosi,https://www.allisontransmission.com,46204
+39,Allstate,Financials,Northbrook,IL,Thomas J. Wilson,www.allstate.com,77056
+40,Ally Financial,Financials,Detroit,MI,Jeffrey J. Brown,https://www.ally.com,10019
+41,Alpha Metallurgical Resources,Energy,Bristol,TN,David J. Stetson,https://www.alphametresources.com,95014
+42,Alphabet,Technology,Mountain View,CA,Sundar Pichai,https://www.abc.xyz,95054
+43,Altice USA,Telecommunications,Long Island City,NY,Dennis Mathew,https://www.alticeusa.com,19103
+44,Altria Group,"Food, Beverages & Tobacco",Richmond,VA,William F. Gifford Jr.,https://www.altria.com,60601
+45,A-Mark Precious Metals,Wholesalers,El Segundo,CA,Gregory N. Roberts,https://www.amark.com,15212
+46,Amazon,Retailing,Seattle,WA,Andrew R. Jassy,www.amazon.com,23227
+47,AMC Entertainment Holdings,Media,Leawood,KS,Adam M. Aron,https://www.amctheatres.com,80112
+48,AMC Networks,Media,New York,NY,Christina Spade,https://www.amcnetworks.com,60008
+49,Amedisys,Health Care,Baton Rouge,LA,Christopher T. Gerard,https://www.amedisys.com,30097
+50,Amerco,Transportation,Reno,NV,Edward J. Shoen,https://www.amerco.com,10006
+51,Ameren,Energy,St. Louis,MO,Martin J. Lyons Jr.,https://www.ameren.com,75202
+52,American Airlines Group,Transportation,Fort Worth,TX,Robert D. Isom,www.aa.com,48326
+53,American Axle & Manufacturing,Motor Vehicles & Parts,Detroit,MI,David C. Dauch,https://www.aam.com,7068
+54,American Eagle Outfitters,Retailing,Pittsburgh,PA,Jay L. Schottenstein,https://www.aeo-inc.com,33301
+55,American Electric Power,Energy,Columbus,OH,Nicholas K. Akins,https://www.aep.com,48917
+56,American Equity Investment Life Holding,Financials,West Des Moines,IA,Anant Bhalla,https://www.american-equity.com,38103
+57,American Express,Financials,New York,NY,Stephen J. Squeri,www.americanexpress.com,19087
+58,American Family Insurance Group,Financials,Madison,WI,William Westrate,https://www.amfam.com,91203
+59,American Financial Group,Financials,Cincinnati,OH,Carl H. Lindner lll/S. Craig Lindner,https://www.afginc.com,7054
+60,American International Group,Financials,New York,NY,Peter S. Zaffino,www.aig.com,85034
+61,American National Group,Financials,Galveston,TX,James E. Pozzi,https://www.americannational.com,77073
+62,American Tower,Financials,Boston,MA,Thomas A. Bartlett,https://www.americantower.com,80021
+63,American Water Works,Energy,Camden,NJ,M. Susan Hardwick,https://www.amwater.com,28255
+64,Americold Realty Trust,Financials,Atlanta,GA,George F. Chappelle Jr.,https://www.americold.com,10286
+65,Ameriprise Financial,Financials,Minneapolis,MN,James M. Cracchiolo,https://www.ameriprise.com,43230
+66,AmerisourceBergen,Health Care,Conshohocken,PA,Steven H. Collis,www.amerisourcebergen.com,60015
+67,Ametek,Technology,Berwyn,PA,David A. Zapico,https://www.ametek.com,20170
+68,Amgen,Health Care,Thousand Oaks,CA,Robert A. Bradway,https://www.amgen.com,7417
+69,Amica Mutual Insurance,Financials,Lincoln,RI,Robert A. DiMuccio,https://www.amica.com,7083
+70,Amkor Technology,Technology,Tempe,AZ,Guillaume Marie Jean Rutten,https://www.amkor.com,68131
+71,AMN Healthcare Services,Health Care,Dallas,TX,Susan Salka,https://www.amnhealthcare.com,47710
+72,Amphenol,Technology,Wallingford,CT,R. Adam Norwitt,https://www.amphenol.com,55423
+73,Analog Devices,Technology,Wilmington,MA,Vincent T. Roche,https://www.analog.com,2142
+74,Andersons,"Food, Beverages & Tobacco",Maumee,OH,Patrick Bowe,https://andersonsinc.com,1581
+75,Annaly Capital Management,Financials,New York,NY,David L. Finkelstein,https://www.annaly.com,10055
+76,Antero Resources,Energy,Denver,CO,Paul M. Rady,https://www.anteroresources.com,10154
+77,Anywhere Real Estate,Financials,Madison,NJ,Ryan M. Schneider,https://www.realogy.com,94103
+78,APA,Energy,Houston,TX,John J. Christmann IV,https://www.apacorp.com,60606
+79,APi Group,Engineering & Construction,New Brighton,MN,Russell A. Becker,https://www.apigroupcorp.com,83702
+80,Apollo Global Management,Financials,New York,NY,Marc Rowan,https://www.apollo.com,6854
+81,Apple,Technology,Cupertino,CA,Timothy D. Cook,www.apple.com,22102
+82,Applied Industrial Technologies,Wholesalers,Cleveland,OH,Neil A. Schrimsher,https://www.applied.com,48326
+83,Applied Materials,Technology,Santa Clara,CA,Gary E. Dickerson,https://www.appliedmaterials.com,1752
+84,AppLovin,Technology,Palo Alto,CA,Adam Foroughi,https://www.applovin.com,28277
+85,AptarGroup,Materials,Crystal Lake,IL,Stephan B. Tanda,https://www.aptar.com,10016
+86,Aramark,Business Services,Philadelphia,PA,John J. Zillmer,https://www.aramark.com,95131
+87,ArcBest,Transportation,Fort Smith,AR,Judy R. McReynolds,https://www.arcb.com,75201
+88,Arch Resources,Energy,St. Louis,MO,Paul A. Lang,https://www.archrsc.com,8016
+89,Archer Daniels Midland,"Food, Beverages & Tobacco",Chicago,IL,Juan R. Luciano,www.adm.com,55347
+90,Arconic,Materials,Pittsburgh,PA,Timothy D. Myers,https://www.arconic.com,89501
+91,Ares Management,Financials,Los Angeles,CA,Michael Arougheti,https://www.aresmgmt.com,8103
+92,Arista Networks,Technology,Santa Clara,CA,Jayshree V. Ullal,https://www.arista.com,60069
+93,ARKO,Retailing,Richmond,VA,Arie Kotler,https://www.arkocorp.com,22102
+94,Arrow Electronics,Wholesalers,Centennial,CO,Sean J. Kerins,www.arrow.com,43017
+95,Arthur J. Gallagher,Financials,Rolling Meadows,IL,J. Patrick Gallagher Jr.,https://www.ajg.com,20004
+96,Asbury Automotive Group,Retailing,Duluth,GA,David W. Hult,https://www.asburyauto.com,23238
+97,ASGN,Business Services,Glen Allen,VA,Theodore S. Hanson,https://www.asgn.com,33418
+98,Ashland,Chemicals,Wilmington,DE,Guillermo Novo,https://www.ashland.com,85281
+99,Assurant,Financials,New York,NY,Keith W. Demmings,https://www.assurant.com,50021
+100,AT&T,Telecommunications,Dallas,TX,John T. Stankey,www.att.com,60015
+101,ATI,Materials,Pittsburgh,PA,Robert S. Wetherbee,https://www.atimaterials.com,75201
+102,Atkore,Industrials,Harvey,IL,William E. Waltz,https://www.atkore.com,60069
+103,Atlas Air Worldwide Holdings,Transportation,Purchase,NY,John W. Dietrich,https://www.atlasairworldwide.com,75039
+104,Atmos Energy,Energy,Dallas,TX,John K. Akers,https://www.atmosenergy.com,63105
+105,Autodesk,Technology,San Rafael,CA,Andrew Anagnost,https://www.autodesk.com,77002
+106,Autoliv,Motor Vehicles & Parts,Auburn Hills,MI,Mikael Bratt,https://www.autoliv.com,60015
+107,Automatic Data Processing,Business Services,Roseland,NJ,Carlos A. Rodriguez,https://www.adp.com,76262
+108,AutoNation,Retailing,Fort Lauderdale,FL,Michael M. Manley,https://www.autonation.com,6902
+109,Auto-Owners Insurance,Financials,Lansing,MI,Jeffrey S. Tagsold,https://www.auto-owners.com,77002
+110,AutoZone,Retailing,Memphis,TN,William C. Rhodes III,https://www.autozone.com,94583
+111,AvalonBay Communities,Financials,Arlington,VA,Benjamin W. Schall,https://www.avalonbay.com,33004
+112,Avantor,Technology,Radnor,PA,Michael Stubblefield,https://www.avantorsciences.com,92660
+113,Avaya Holdings,Technology,Durham,NC,Alan Masarek,https://www.avaya.com,55077
+114,Avery Dennison,Materials,Glendale,CA,Mitchell R. Butier,https://www.averydennison.com,6002
+115,Avient,Chemicals,Avon Lake,OH,Robert M. Patterson,https://www.avient.com,45014
+116,Avis Budget Group,Retailing,Parsippany,NJ,Joseph A. Ferraro,https://www.avisbudgetgroup.com,45262
+117,Avnet,Wholesalers,Phoenix,AZ,Philip R. Gallagher,https://www.avnet.com,95134
+118,Baker Hughes,Energy,Houston,TX,Lorenzo Simonelli,https://www.bakerhughes.com,10013
+119,Ball,Materials,Westminster,CO,Daniel W. Fisher,https://www.ball.com,2903
+120,Bank of America,Financials,Charlotte,NC,Brian T. Moynihan,www.bankofamerica.com,44114
+121,Bank of New York Mellon,Financials,New York,NY,Robin Vince,https://www.bnymellon.com,94612
+122,Bath & Body Works,Retailing,Columbus,OH,Sarah E. Nash,https://www.bbwinc.com,49201
+123,Baxter International,Health Care,Deerfield,IL,JosÃ© E. Almeida,https://www.baxter.com,30313
+124,Beacon Roofing Supply,Wholesalers,Herndon,VA,Julian G. Francis,https://www.becn.com,7666
+125,Beazer Homes USA,Engineering & Construction,Atlanta,GA,Allan P. Merrill,https://www.beazer.com,19801
+126,Becton Dickinson,Health Care,Franklin Lakes,NJ,Thomas E. Polen,https://www.bd.com,10022
+127,Bed Bath & Beyond,Retailing,Union,NJ,Sue Gove,https://www.bedbathandbeyond.com,19103
+128,Belden,Industrials,St. Louis,MO,Roel Vestjens,https://www.belden.com,75039
+129,Benchmark Electronics,Technology,Tempe,AZ,Jeffrey W. Benck,https://www.bench.com,28602
+130,Berkshire Hathaway,Financials,Omaha,NE,Warren E. Buffett,www.berkshirehathaway.com,37067
+131,Berry Global Group,Materials,Evansville,IN,Thomas E. Salmon,https://www.berryglobal.com,10011
+132,Best Buy,Retailing,Richfield,MN,Corie S. Barry,www.investors.bestbuy.com,60654
+133,Big Lots,Retailing,Columbus,OH,Bruce K. Thorn,https://www.biglots.com,77079
+134,Biogen,Health Care,Cambridge,MA,Michel Vounatsos,https://www.biogen.com,10003
+135,Bio-Rad Laboratories,Technology,Hercules,CA,Norman D. Schwartz,https://www.bio-rad.com,14564
+136,BJ&#8217;s Wholesale Club,Retailing,Westborough,MA,Robert W. Eddy,https://www.bjs.com,14831
+137,BlackRock,Financials,New York,NY,Laurence D. Fink,https://www.blackrock.com,46268
+138,Blackstone,Financials,New York,NY,Stephen A. Schwarzman,https://www.blackstone.com,98027
+139,Block,Business Services,San Francisco,CA,Jack Dorsey,https://www.block.xyz,19067
+140,Bloomin' Brands,"Hotels, Restaurants & Leisure",Tampa,FL,David J. Deno,https://www.bloominbrands.com,32202
+141,BlueLinx Holdings,Wholesalers,Marietta,GA,Dwight A.K. Gibson,https://www.bluelinxco.com,47201
+142,Boeing,Aerospace & Defense,Chicago,IL,David L. Calhoun,www.boeing.com,2895
+143,Boise Cascade,Wholesalers,Boise,ID,Nathan Jorgensen,https://www.bc.com,76011
+144,Booking Holdings,Technology,Norwalk,CT,Glenn D. Fogel,https://www.bookingholdings.com,43537
+145,Booz Allen Hamilton Holding,Technology,McLean,VA,Horacio D. Rozanski,https://www.boozallen.com,20037
+146,BorgWarner,Motor Vehicles & Parts,Auburn Hills,MI,Frederic B. Lissalde,https://www.borgwarner.com,32837
+147,Boston Properties,Financials,Boston,MA,Owen D. Thomas,https://www.bxp.com,80202
+148,Boston Scientific,Health Care,Marlborough,MA,Michael F. Mahoney,https://www.bostonscientific.com,80237
+149,Boyd Gaming,"Hotels, Restaurants & Leisure",Las Vegas,NV,Keith E. Smith,https://www.boydgaming.com,61265
+150,Bread Financial Holdings,Business Services,Columbus,OH,Ralph J. Andretta,https://www.breadfinancial.com,37027
+151,Bright Health Group,Health Care,Minneapolis,MN,G. Mike Mikan,https://www.brighthealthcare.com,78682
+152,Brighthouse Financial,Financials,Charlotte,NC,Eric T. Steigerwalt,https://www.brighthousefinancial.com,30354
+153,BrightView Holdings,Business Services,Blue Bell,PA,Andrew V. Masterman,https://www.brightview.com,73102
+154,Brinker International,"Hotels, Restaurants & Leisure",Dallas,TX,Kevin Hochman,https://www.brinker.com,79701
+155,Brink's,Business Services,Richmond,VA,Mark Eubanks,https://www.brinks.com,15108
+156,Bristol-Myers Squibb,Health Care,New York,NY,Giovanni Caforio,www.bms.com,72201
+157,Broadcom,Technology,San Jose,CA,Hock E. Tan,https://www.broadcom.com,60015
+158,Broadridge Financial Solutions,Business Services,Lake Success,NY,Timothy C. Gokey,https://www.broadridge.com,80112
+159,Brookdale Senior Living,Health Care,Brentwood,TN,Lucinda M. Baier,https://www.brookdale.com,37072
+160,Brown & Brown,Financials,Daytona Beach,FL,J. Powell Brown,https://www.bbinsurance.com,23320
+161,Brown-Forman,"Food, Beverages & Tobacco",Louisville,KY,Lawson E. Whiting,https://www.brown-forman.com,23219
+162,Bruker,Technology,Billerica,MA,Frank H. Laukien,https://www.bruker.com,60515
+163,Brunswick,Transportation,Mettawa,IL,David M. Foulkes,https://www.brunswick.com,48674
+164,Builders FirstSource,Materials,Dallas,TX,David Flitman,https://www.bldr.com,48226
+165,Burlington Stores,Retailing,Burlington,NJ,Michael B. O?Sullivan,https://www.burlingtoninvestors.com,28202
+166,BWX Technologies,Aerospace & Defense,Lynchburg,VA,Rex D. Geveden,https://www.bwxt.com,19805
+167,C.H. Robinson Worldwide,Transportation,Eden Prairie,MN,Robert C. Biesterfeld Jr.,https://www.chrobinson.com,22102
+168,Cabot,Chemicals,Boston,MA,Sean D. Keohane,https://www.cabotcorp.com,37660
+169,CACI International,Technology,Reston,VA,John S. Mengucci,https://www.caci.com,95125
+170,Cadence Design Systems,Technology,San Jose,CA,Anirudh Devgan,https://www.cadence.com,55102
+171,Caesars Entertainment,"Hotels, Restaurants & Leisure",Reno,NV,Thomas R. Reeg,https://www.caesars.com,91770
+172,Caleres,Retailing,St. Louis,MO,Diane M. Sullivan,https://www.caleres.com,46285
+173,Calumet Specialty Products Partners,Energy,Indianapolis,IN,Stephen P. Mawer,https://www.calumetspecialty.com,6851
+174,Campbell Soup,"Food, Beverages & Tobacco",Camden,NJ,Mark A. Clouse,https://www.campbellsoupcompany.com,63136
+175,Camping World Holdings,Retailing,Lincolnshire,IL,Marcus A. Lemonis,https://www.campingworld.com,75225
+176,Capital One Financial,Financials,McLean,VA,Richard D. Fairbank,www.capitalone.com,75201
+177,Cardinal Health,Health Care,Dublin,OH,Jason Hollar,www.cardinalhealth.com,70113
+178,Carlisle,Materials,Scottsdale,AZ,D. Christian Koch,https://www.carlisle.com,77002
+179,Carlyle Group,Financials,Washington,DC,William Conway Jr.,https://www.carlyle.com,77002
+180,CarMax,Retailing,Richmond,VA,William D. Nash,www.carmax.com,94065
+181,Carrier Global,Industrials,Palm Beach Gardens,FL,David L. Gitlin,https://www.corporate.carrier.com,10104
+182,Carter's,Apparel,Atlanta,GA,Michael D. Casey,https://www.carters.com,16530
+183,Carvana,Retailing,Tempe,AZ,Ernest C. Garcia III,https://www.carvana.com,10153
+184,Casey's General Stores,Retailing,Ankeny,IA,Darren M. Rebelez,https://www.caseys.com,1104
+185,Catalent,Health Care,Somerset,NJ,Alessandro Maselli,https://www.catalent.com,60603
+186,Caterpillar,Industrials,Deerfield,IL,D. James Umpleby III,www.caterpillar.com,98119
+187,Cboe Global Markets,Financials,Chicago,IL,Edward T. Tilly,https://www.cboe.com,98104
+188,CBRE Group,Financials,Dallas,TX,Robert E. Sulentic,https://www.cbre.com,75039
+189,CDW,Technology,Lincolnshire,IL,Christine A. Leahy,https://www.cdw.com,20005
+190,Celanese,Chemicals,Irving,TX,Lori J. Ryerkerk,https://www.celanese.com,91367
+191,Centene,Health Care,St. Louis,MO,Sarah M. London,www.centene.com,38120
+192,CenterPoint Energy,Energy,Houston,TX,David J. Lesar,https://www.centerpointenergy.com,32204
+193,Central Garden & Pet,Household Products,Walnut Creek,CA,Timothy P. Cofer,https://www.central.com,32204
+194,Century Aluminum,Materials,Chicago,IL,Jesse E. Gary,https://www.centuryaluminum.com,45263
+195,Century Communities,Engineering & Construction,Greenwood Village,CO,Dale Francescon/Robert Francescon,https://www.centurycommunities.com,92707
+196,Cerner,Health Care,North Kansas City,MO,David T. Feinberg,https://www.cerner.com,44308
+197,CF Industries Holdings,Chemicals,Deerfield,IL,W. Anthony Will,https://www.cfindustries.com,53045
+198,ChampionX,Energy,The Woodlands,TX,Sivasankaran Somasundaram,https://www.championx.com,75039
+199,Change Healthcare,Health Care,Nashville,TN,Heather Cianfrocco (Optum),https://www.changehealthcare.com,2919
+200,Charles River Laboratories International,Health Care,Wilmington,MA,James C. Foster,https://www.criver.com,10001
+201,Charles Schwab,Financials,Westlake,TX,Walter W. Bettinger II,https://www.aboutschwab.com,48126
+202,Charter Communications,Telecommunications,Stamford,CT,Thomas M. Rutledge,www.charter.com,60015
+203,Cheesecake Factory,"Hotels, Restaurants & Leisure",Calabasas Hills,CA,David M. Overton,https://www.thecheesecakefactory.com,10036
+204,Chemed,Health Care,Cincinnati,OH,Kevin J. McNamara,https://www.chemed.com,94403
+205,Chemours,Chemicals,Wilmington,DE,Mark E. Newman,https://www.chemours.com,22102
+206,Cheniere Energy,Energy,Houston,TX,Jack A. Fusco,https://www.cheniere.com,85004
+207,Chesapeake Energy,Energy,Oklahoma City,OK,Domenic J. Dell&#039;Osso Jr.,https://www.chk.com,6851
+208,Chevron,Energy,San Ramon,CA,Michael K. Wirth,www.chevron.com,94105
+209,Chewy,Retailing,Dania Beach,FL,Sumit Singh,https://www.chewy.com,20190
+210,Chipotle,"Hotels, Restaurants & Leisure",Newport Beach,CA,Brian Niccol,https://www.chipotle.com,2210
+211,CHS,"Food, Beverages & Tobacco",Inver Grove Heights,MN,Jay D. Debertin,www.chsinc.com,55426
+212,Church & Dwight,Household Products,Ewing,NJ,Matthew T. Farrell,https://www.churchdwight.com,48265
+213,Ciena,Technology,Hanover,MD,Gary B. Smith,https://www.ciena.com,30339
+214,Cigna,Health Care,Bloomfield,CT,David Cordani,https://www.cigna.com,23230
+215,Cincinnati Financial,Financials,Fairfield,OH,Steven J. Johnston,https://www.cinfin.com,94404
+216,Cintas,Business Services,Cincinnati,OH,Todd M. Schneider,https://www.cintas.com,2453
+217,Cisco Systems,Technology,San Jose,CA,Charles H. Robbins,www.cisco.com,30326
+218,Citigroup,Financials,New York,NY,Jane Fraser,www.citigroup.com,10282
+219,Citizens Financial Group,Financials,Providence,RI,Bruce W. Van Saun,https://www.citizensbank.com,44316
+220,Citrix Systems,Technology,Fort Lauderdale,FL,Robert M. Calderoni,https://www.citrix.com,30328
+221,Clean Harbors,Business Services,Norwell,MA,Alan S. McKim,https://www.cleanharbors.com,63105
+222,Clear Channel Outdoor Holdings,Business Services,San Antonio,TX,Scott R. Wells,https://www.clearchanneloutdoor.com,77024
+223,Cleveland-Cliffs,Materials,Cleveland,OH,C. Lourenco Goncalves,https://www.clevelandcliffs.com,10001
+224,Clorox,Household Products,Oakland,CA,Linda Rendle,https://www.thecloroxcompany.com,6831
+225,CME Group,Financials,Chicago,IL,Terrence A. Duffy,https://www.cmegroup.com,77032
+226,CMS Energy,Energy,Jackson,MI,Garrick J. Rochow,https://www.cmsenergy.com,27105
+227,CNO Financial Group,Financials,Carmel,IN,Gary C. Bhojwani,https://www.cnoinc.com,6155
+228,Coca-Cola,"Food, Beverages & Tobacco",Atlanta,GA,James R. Quincey,www.coca-colacompany.com,2861
+229,Coca-Cola Consolidated,"Food, Beverages & Tobacco",Charlotte,NC,J. Frank Harrison III,https://www.cokeconsolidated.com,37203
+230,Cognizant Technology Solutions,Technology,Teaneck,NJ,Brian Humphries,https://www.cognizant.com,11747
+231,Coherent,Technology,Saxonburg,PA,Vincent D. Mattera Jr.,https://www.ii-vi.com,17033
+232,Coinbase Global,Financials,Wilmington,DE,Brian Armstrong,https://www.coinbase.com,33928
+233,Colgate-Palmolive,Household Products,New York,NY,Noel R. Wallace,https://www.colgatepalmolive.com,10036
+234,Columbia Sportswear,Apparel,Portland,OR,Timothy P. Boyle,https://www.columbia.com,77070
+235,Comcast,Telecommunications,Philadelphia,PA,Brian L. Roberts,www.comcastcorporation.com,75201
+236,Comerica,Financials,Dallas,TX,Curtis C. Farmer,https://www.comerica.com,30339
+237,Comfort Systems USA,Engineering & Construction,Houston,TX,Brian E. Lane,https://www.comfortsystemsusa.com,28202
+238,Commercial Metals,Materials,Irving,TX,Barbara R. Smith,https://www.cmc.com,55912
+239,CommScope Holding,Technology,Hickory,NC,Charles L. Treadway,https://www.commscope.com,94304
+240,Community Health Systems,Health Care,Franklin,TN,Tim L. Hingtgen,https://www.chs.net,40202
+241,Compass,Technology,New York,NY,Robert L. Reffkin,https://www.compass.com,23607
+242,Conagra Brands,"Food, Beverages & Tobacco",Chicago,IL,Sean M. Connolly,https://www.conagrabrands.com,77380
+243,Concentrix,Technology,Fremont,CA,Christopher A. Caldwell,https://www.concentrix.com,33160
+244,Conduent,Business Services,Florham Park,NJ,Clifford A. Skelton,https://www.conduent.com,60025
+245,ConocoPhillips,Energy,Houston,TX,Ryan M. Lance,www.conocophillips.com,60154
+246,Consolidated Edison,Energy,New York,NY,Timothy P. Cawley,https://www.conedison.com,85283
+247,Constellation Brands,"Food, Beverages & Tobacco",Victor,NY,William A. Newlands,https://www.cbrands.com,95054
+248,Continental Resources,Energy,Oklahoma City,OK,William B. Berry,https://www.clr.com,30328
+249,Cooper Cos.,Health Care,San Ramon,CA,Albert G. White III,https://www.coopercos.com,10504
+250,Cooper-Standard Holdings,Motor Vehicles & Parts,Northville,MI,Jeffrey S. Edwards,https://www.cooperstandard.com,10019
+251,Copart,Retailing,Dallas,TX,#REF!,https://www.copart.com,38197
+252,Core & Main,Wholesalers,St. Louis,MO,Stephen O. LeClair,https://www.coreandmain.com,10022
+253,Cornerstone Building Brands,Materials,Cary,NC,Rose Lee,https://www.cornerstonebuildingbrands.com,94043
+254,Corning,Industrials,Corning,NY,Wendell P. Weeks,https://www.corning.com,27703
+255,Corteva,"Food, Beverages & Tobacco",Indianapolis,IN,Charles V. Magro,https://www.corteva.com,72745
+256,Costco Wholesale,Retailing,Issaquah,WA,W. Craig Jelinek,www.costco.com,44667
+257,Coterra Energy,Energy,Houston,TX,Thomas E. Jorden,https://www.coterra.com,33716
+258,Coty,Household Products,New York,NY,Sue Y. Nabi,https://www.coty.com,48951
+259,Country Financial,Financials,Bloomington,IL,Jim Jacobs,https://www.countryfinancial.com,75201
+260,Covetrus,Health Care,Portland,ME,Benjamin Wolin,https://https://covetrus.com/,10022
+261,Cowen,Financials,New York,NY,Jeffrey Solomon,https://www.cowen.com,8933
+262,Cracker Barrel Old Country Store,"Hotels, Restaurants & Leisure",Lebanon,TN,Sandra B. Cochran,https://www.crackerbarrel.com,63131
+263,Crane Holdings,Industrials,Stamford,CT,Max H. Mitchell,https://www.craneco.com,60601
+264,Crestwood Equity Partners,Energy,Houston,TX,Robert G Phillips,https://www.crestwoodlp.com,10179
+265,Crocs,Apparel,Broomfield,CO,Andrew Rees,https://www.crocs.com,77002
+266,CrossAmerica Partners,Energy,Allentown,PA,Charles M. Nifong Jr.,https://www.crossamericapartners.com,49017
+267,Crown Castle International,Financials,Houston,TX,Jay A. Brown,https://www.crowncastle.com,1803
+268,Crown Holdings,Materials,Yardley,PA,Timothy J. Donahue,https://www.crowncork.com,44114
+269,CSX,Transportation,Jacksonville,FL,Joseph R. Hinrichs,https://www.csx.com,75038
+270,Cummins,Industrials,Columbus,IN,Jennifer Rumsey,https://www.cummins.com,77002
+271,CUNA Mutual Group,Financials,Madison,WI,Robert N. Trunzo,https://www.cunamutual.com,10001
+272,Curtiss-Wright,Industrials,Davidson,NC,Lynn M. Bamford,https://www.curtisswright.com,95035
+273,CVS Health,Health Care,Woonsocket,RI,Karen Lynch,https://www.cvshealth.com,53051
+274,D.R. Horton,Engineering & Construction,Arlington,TX,David Auld,https://www.drhorton.com,60601
+275,Dana,Motor Vehicles & Parts,Maumee,OH,James K. Kamsickas,https://www.dana.com,45202
+276,Danaher,Health Care,Washington,DC,Rainer Blair,https://www.danaher.com,32919
+277,Darden Restaurants,"Hotels, Restaurants & Leisure",Orlando,FL,Ricardo Cardenas,https://www.darden.com,27215
+278,Darling Ingredients,"Food, Beverages & Tobacco",Irving,TX,Randall C. Stuewe,https://www.darlingii.com,94538
+279,DaVita,Health Care,Denver,CO,Javier J. Rodriguez,https://www.davita.com,55126
+280,DCP Midstream,Energy,Denver,CO,Wouter T. van Kempen,https://www.dcpmidstream.com,32224
+281,Deckers Outdoor,Apparel,Goleta,CA,David Powers,https://www.deckers.com,48033
+282,Deere,Industrials,Moline,IL,John C. May,www.deere.com,20190
+283,Delek US Holdings,Energy,Brentwood,TN,Avigal Soreq,https://www.delekus.com,33172
+284,Dell Technologies,Technology,Round Rock,TX,Michael S. Dell,www.delltechnologies.com,80112
+285,Delta Air Lines,Transportation,Atlanta,GA,Edward H. Bastian,www.delta.com,2116
+286,Dentsply Sirona,Health Care,Charlotte,NC,Simon D. Campion,https://www.dentsplysirona.com,19087
+287,Designer Brands,Retailing,Columbus,OH,Roger L. Rawlins,https://www.designerbrands.com,97501
+288,Devon Energy,Energy,Oklahoma City,OK,Richard E. Muncrief,https://www.devonenergy.com,60661
+289,DexCom,Health Care,San Diego,CA,Kevin Sayer,https://www.dexcom.com,20817
+290,Diamondback Energy,Energy,Midland,TX,Travis D. Stice,https://www.diamondbackenergy.com,10065
+291,Dick's Sporting Goods,Retailing,Coraopolis,PA,Lauren R. Hobart,https://www.dickssportinggoods.com,28117
+292,Diebold Nixdorf,Technology,Hudson,OH,Octavio Marquez,https://www.dieboldnixdorf.com,92121
+293,Digital Realty Trust,Financials,Austin,TX,A. William Stein,https://www.digitalrealty.com,71203
+294,Dillard&#8217;s,Retailing,Little Rock,AR,William T. Dillard II,https://www.dillards.com,10001
+295,Discover Financial Services,Financials,Riverwoods,IL,Roger C. Hochschild,https://www.discover.com,53212
+296,DISH Network,Telecommunications,Englewood,CO,W. Erik Carlson,https://www.dish.com,45840
+297,DocuSign,Technology,San Francisco,CA,Allan C. Thygesen,https://www.docusign.com,23060
+298,Dollar General,Retailing,Goodlettsville,TN,Jeffery C. Owen,www.dollargeneral.com,20817
+299,Dollar Tree,Retailing,Chesapeake,VA,Michael A. Witynski,https://www.dollartree.com,10036
+300,Dominion Energy,Energy,Richmond,VA,Robert M. Blue,https://www.dominionenergy.com,48152
+301,Domino's Pizza,"Hotels, Restaurants & Leisure",Ann Arbor,MI,Russell J. Weiner,https://www.dominos.com,1111
+302,Domtar,Materials,Fort Mill,SC,John D. Williams,https://www.domtar.com,33134
+303,Donaldson,Industrials,Minneapolis,MN,Tod E. Carpenter,https://www.donaldson.com,10577
+304,DoorDash,Technology,San Francisco,CA,Tony Xu,https://https://ir.doordash.com,60607
+305,Dover,Industrials,Downers Grove,IL,Richard J. Tobin,https://www.dovercorporation.com,75039
+306,Dow,Chemicals,Midland,MI,James R. Fitterling,www.dow.com,7033
+307,Dropbox,Technology,San Francisco,CA,Andrew W. Houston,https://www.dropbox.com,94025
+308,DTE Energy,Energy,Detroit,MI,Gerardo Norcia,https://www.dteenergy.com,10166
+309,Duke Energy,Energy,Charlotte,NC,Lynn J. Good,https://www.duke-energy.com,89109
+310,Dun & Bradstreet Holdings,Business Services,Jacksonville,FL,Anthony M. Jabbour,https://www.dnb.com,83716
+311,DuPont,Chemicals,Wilmington,DE,Edward D. Breen,https://www.dupont.com,98052
+312,DXC Technology,Technology,Tysons,VA,Michael J. Salvino,https://www.dxc.technology,2139
+313,Dycom Industries,Engineering & Construction,Palm Beach Gardens,FL,Steven E. Nielsen,https://www.dycomind.com,30701
+314,E.W. Scripps,Media,Cincinnati,OH,Adam Symson,https://www.scripps.com,90802
+315,Eastman Chemical,Chemicals,Kingsport,TN,Mark J. Costa,https://www.eastman.com,60606
+316,eBay,Technology,San Jose,CA,Jamie Iannone,https://www.ebay.com,60607
+317,Ecolab,Chemicals,St. Paul,MN,Christophe Beck,https://www.ecolab.com,10036
+318,Edison International,Energy,Rosemead,CA,Pedro J. Pizarro,https://www.edisoninvestor.com,33602
+319,Edwards Lifesciences,Health Care,Irvine,CA,Michael A. Mussallem,https://www.edwards.com,60661
+320,Elanco Animal Health,Health Care,Greenfield,IN,Jeffrey N. Simmons,https://www.elanco.com,71730
+321,Electronic Arts,Media,Redwood City,CA,Andrew Wilson,https://www.ea.com,68175
+322,Element Solutions,Chemicals,Fort Lauderdale,FL,Benjamin Gliklich,https://www.elementsolutionsinc.com,43215
+323,Elevance Health,Health Care,Indianapolis,IN,Gail K. Boudreaux,www.elevancehealth.com,30308
+324,Eli Lilly,Health Care,Indianapolis,IN,David A. Ricks,https://www.lilly.com,95032
+325,EMCOR Group,Engineering & Construction,Norwalk,CT,Anthony J. Guzzi,https://www.emcorgroup.com,10010
+326,Emerson Electric,Industrials,St. Louis,MO,S. L. Karsanbhai,https://www.emerson.com,30328
+327,Encompass Health,Health Care,Birmingham,AL,Mark J. Tarr,https://www.encompasshealth.com,80237
+328,Encore Wire,Industrials,McKinney,TX,Daniel Jones,https://www.encorewire.com,10036
+329,Endeavor Group Holdings,Media,Beverly Hills,CA,Ariel Emanuel,https://www.endeavorco.com,33408
+330,Energizer Holdings,Household Products,St. Louis,MO,Mark S. LaVigne,https://www.energizerholdings.com,97005
+331,Energy Transfer,Energy,Dallas,TX,Thomas E. Long/Marshall S. McCrea III,www.energytransfer.com,98101
+332,EnerSys,Industrials,Reading,PA,David M. Shaffer,https://www.enersys.com,30308
+333,EnLink Midstream,Energy,Dallas,TX,Jesse Arenivas,https://www.enlink.com,60603
+334,Enovis,Industrials,Wilmington,DE,Matthew L. Trerotola,https://www.enovis.com,22042
+335,Ensign Group,Health Care,San Juan Capistrano,CA,Barry R. Port,https://www.ensigngroup.net,53202
+336,Entegris,Technology,Billerica,MA,Bertrand Loy,https://www.entegris.com,77002
+337,Entergy,Energy,New Orleans,LA,Andrew S. Marsh,https://www.entergy.com,28211
+338,Enterprise Products Partners,Energy,Houston,TX,A. James Teague/W. Randall Fowler,www.enterpriseproducts.com,95051
+339,Envista Holdings,Health Care,Brea,CA,Amir Aghdaei,https://www.envistaco.com,20190
+340,EOG Resources,Energy,Houston,TX,Ezra Y. Yacob,https://www.eogresources.com,77046
+341,EPAM Systems,Technology,Newtown,PA,Arkadiy Dobkin,https://www.epam.com,33496
+342,EQT,Energy,Pittsburgh,PA,Toby Z. Rice,https://www.eqt.com,60601
+343,Equifax,Business Services,Atlanta,GA,Mark W. Begor,https://www.equifax.com,63105
+344,Equinix,Financials,Redwood City,CA,Charles J. Meyers,https://www.equinix.com,10017
+345,Equitable Holdings,Financials,New York,NY,Mark Pearson,https://www.equitableholdings.com,85008
+346,Equity Residential,Financials,Chicago,IL,Mark J. Parrell,https://www.equityapartments.com,74103
+347,Erie Insurance Group,Financials,Erie,PA,Timothy G. NeCastro,https://www.erieinsurance.com,85281
+348,EstÃ©e Lauder,Household Products,New York,NY,Fabrizio Freda,https://www.elcompanies.com,78741
+349,Etsy,Technology,Brooklyn,NY,Josh Silverman,https://www.etsy.com,65802
+350,Euronet Worldwide,Business Services,Leawood,KS,Michael J. Brown,https://www.euronetworldwide.com,54902
+351,Evercore,Financials,New York,NY,John S. Weinberg,https://www.evercore.com,6032
+352,Evergy,Energy,Kansas City,MO,David A. Campbell,https://http://investors.evergy.com,80202
+353,Eversource Energy,Energy,Springfield,MA,Joseph R. Nolan Jr.,https://www.eversource.com,23116
+354,Exelon,Energy,Chicago,IL,Christopher M. Crane,www.exeloncorp.com,43659
+355,eXp World Holdings,Financials,Bellingham,WA,Glenn Sanford,https://www.expworldholdings.com,98004
+356,Expedia Group,Retailing,Seattle,WA,Peter M. Kern,https://www.expediagroup.com,92660
+357,Expeditors Intl. of Washington,Transportation,Seattle,WA,Jeffrey Musser,https://www.expeditors.com,60045
+358,Exxon Mobil,Energy,Irving,TX,Darren W. Woods,www.exxonmobil.com,10036
+359,F5,Technology,Seattle,WA,Fran?ois Locoh-Donou,https://www.f5.com,44124
+360,Fannie Mae,Financials,Washington,DC,David C. Benson,www.fanniemae.com,95131
+361,Farmers Insurance Exchange,Financials,Woodland Hills,CA,Jeffrey J. Dailey,https://www.farmers.com,7054
+362,Fastenal,Wholesalers,Winona,MN,Daniel L. Florness,https://www.fastenal.com,48302
+363,Federated Mutual Insurance,Financials,Owatonna,MN,Michael G. Kerr,https://www.federatedinsurance.com,10577
+364,FedEx,Transportation,Memphis,TN,Rajesh Subramaniam,www.fedex.com,23238
+365,Fidelity National Financial,Financials,Jacksonville,FL,Michael Nolan,https://www.fnf.com,68102
+366,Fidelity National Information Services,Business Services,Jacksonville,FL,Gary A. Norcross,https://www.fisglobal.com,10017
+367,Fifth Third Bancorp,Financials,Cincinnati,OH,Timothy N. Spence,https://www.53.com,94105
+368,First American Financial,Financials,Santa Ana,CA,Kenneth D. DeGiorgio,https://www.firstam.com,10017
+369,First Horizon,Financials,Memphis,TN,D. Bryan Jordan,https://www.firsthorizon.com,77042
+370,First Republic Bank,Financials,San Francisco,CA,Michael J. Roffler,https://www.firstrepublic.com,75038
+371,First Solar,Energy,Tempe,AZ,Mark R. Widmar,https://www.firstsolar.com,77002
+372,FirstEnergy,Energy,Akron,OH,John W. Somerhalder II,https://www.firstenergycorp.com,15222
+373,Fiserv,Business Services,Brookfield,WI,Frank J. Bisignano,https://www.fiserv.com,55340
+374,Five Below,Retailing,Philadelphia,PA,Joel D. Anderson,https://www.fivebelow.com,15272
+375,Fleetcor Technologies,Business Services,Atlanta,GA,Ronald F. Clarke,https://www.fleetcor.com,18101
+376,Floor & Decor Holdings,Retailing,Atlanta,GA,Thomas Taylor,https://www.flooranddecor.com,50392
+377,Flowers Foods,"Food, Beverages & Tobacco",Thomasville,GA,A. Ryals McMullian,https://www.flowersfoods.com,45202
+378,Flowserve,Industrials,Irving,TX,R. Scott Rowe,https://www.flowserve.com,44143
+379,Fluor,Engineering & Construction,Irving,TX,David E. Constable,https://www.fluor.com,7102
+380,FM Global,Financials,Johnston,RI,Malcolm C. Roberts,https://www.fmglobal.com,7102
+381,FMC,Chemicals,Philadelphia,PA,Mark A. Douglas,https://www.fmc.com,33811
+382,Foot Locker,Retailing,New York,NY,Mary N. Dillon,https://www.footlocker.com/corp,30326
+383,Ford Motor,Motor Vehicles & Parts,Dearborn,MI,James D. Farley Jr.,www.ford.com,10017
+384,Fortinet,Technology,Sunnyvale,CA,Ken Xie,https://www.fortinet.com,92121
+385,Fortive,Industrials,Everett,WA,James A. Lico,https://www.fortive.com,77056
+386,Fortune Brands Home & Security,Household Products,Deerfield,IL,Nicholas I. Fink,https://www.fbhs.com,7094
+387,Fox,Media,New York,NY,Lachlan K. Murdoch,https://www.foxcorporation.com,80112
+388,Franchise Group,Retailing,Delaware,OH,Brian R. Kahn,https://www.franchisegrp.com,33716
+389,Franklin Resources,Financials,San Mateo,CA,Jennifer M. Johnson,https://www.franklinresources.com,2451
+390,Freddie Mac,Financials,McLean,VA,Michael J. DeVito,www.freddiemac.com,7940
+391,Freeport-McMoRan,Energy,Phoenix,AZ,Richard C. Adkerson,https://www.fcx.com,10591
+392,Frontier Communications,Telecommunications,Norwalk,CT,Nick Jeffery,https://www.frontier.com,35203
+393,FTI Consulting,Business Services,Washington,DC,Steven H. Gunby,https://www.fticonsulting.com,63017
+394,GameStop,Retailing,Grapevine,TX,Matthew Furlong,https://www.gamestop.com,90071
+395,Gannett,Media,McLean,VA,Michael E. Reed,https://www.gannett.com,85054
+396,Gap,Retailing,San Francisco,CA,Bobby L. Martin,https://www.gapinc.com,17011
+397,Garrett Motion,Motor Vehicles & Parts,Plymouth,MI,Olivier Rabiller,https://www.garrettmotion.com,94025
+398,Gartner,Technology,Stamford,CT,Eugene A. Hall,https://www.gartner.com,48226
+399,Generac Holdings,Industrials,Waukesha,WI,Aaron Jagdfeld,https://www.generac.com,53204
+400,General Dynamics,Aerospace & Defense,Reston,VA,Phebe N. Novakovic,www.gd.com,34240
+401,General Electric,Industrials,Boston,MA,H. Lawrence Culp Jr.,www.ge.com,94568
+402,General Mills,"Food, Beverages & Tobacco",Minneapolis,MN,Jeffrey L. Harmening,https://www.generalmills.com,33178
+403,General Motors,Motor Vehicles & Parts,Detroit,MI,Mary T. Barra,www.gm.com,10041
+404,Genesco,Retailing,Nashville,TN,Mimi Eckel Vaughn,https://www.genesco.com,94105
+405,Genesis Energy,Energy,Houston,TX,Grant E. Sims,https://www.genesisenergy.com,95134
+406,Genuine Parts,Wholesalers,Atlanta,GA,Paul D. Donahue,https://www.genpt.com,20190
+407,Genworth Financial,Financials,Richmond,VA,Thomas J. McInerney,https://www.genworth.com,66202
+408,GEO Group,Business Services,Boca Raton,FL,Jose Gordo,https://www.geogroup.com,55101
+409,G-III Apparel Group,Apparel,New York,NY,Morris Goldfarb,https://www.giii.com,92101
+410,Gilead Sciences,Health Care,Foster City,CA,Daniel P. O&#039;Day,https://www.gilead.com,44115
+411,Global Partners,Wholesalers,Waltham,MA,Eric Slifka,https://www.globalp.com,28211
+412,Global Payments,Business Services,Atlanta,GA,Jeffrey S. Sloan,https://www.globalpayments.com,30308
+413,Globe Life,Financials,McKinney,TX,#REF!,https://www.globelifeinsurance.com,75235
+414,GMS,Wholesalers,Tucker,GA,John C. Turner Jr.,https://www.gms.com,77389
+415,GoDaddy,Technology,Tempe,AZ,Aman Bhutani,https://www.godaddy.com,49315
+416,Goldman Sachs Group,Financials,New York,NY,David M. Solomon,www.goldmansachs.com,6053
+417,Goodyear Tire & Rubber,Motor Vehicles & Parts,Akron,OH,Richard J. Kramer,https://www.goodyear.com,98134
+418,Graham Holdings,Business Services,Arlington,VA,Timothy J. O?Shaughnessy,https://www.ghco.com,61710
+419,Granite Construction,Engineering & Construction,Watsonville,CA,Kyle T. Larkin,https://www.graniteconstruction.com,2111
+420,Graphic Packaging Holding,Materials,Atlanta,GA,Michael P. Doss,https://www.graphicpkg.com,46804
+421,Gray Television,Media,Atlanta,GA,#REF!,https://www.gray.tv,10169
+422,Graybar Electric,Wholesalers,St. Louis,MO,Kathleen M. Mazzarella,https://www.graybar.com,49002
+423,Green Plains,Energy,Omaha,NE,Todd A. Becker,https://www.gpreinc.com,6902
+424,Greif,Materials,Delaware,OH,Ole Rosgaard,https://www.greif.com,77077
+425,Griffon,Materials,New York,NY,Ronald J. Kramer,https://www.griffon.com,21202
+426,Grocery Outlet Holding,Food & Drug Stores,Emeryville,CA,Eric J. Lindberg Jr.,https://www.groceryoutlet.com,77002
+427,Group 1 Automotive,Retailing,Houston,TX,Earl J. Hesterberg,https://www.group1auto.com,55403
+428,Guardian Life Ins. Co. of America,Financials,New York,NY,Andrew J. McMahon,https://www.guardianlife.com,85251
+429,Guess,Retailing,Los Angeles,CA,Carlos E. Alberini,https://www.guess.com,94538
+430,GXO Logistics,Transportation,Greenwich,CT,Malcolm Wilson,https://www.gxo.com,75254
+431,H&R Block,Financials,Kansas City,MO,Jeffrey J. Jones II,https://www.hrblock.com,60045
+432,H.B. Fuller,Chemicals,St. Paul,MN,James J. Owens,https://www.hbfuller.com,78725
+433,Halliburton,Energy,Houston,TX,Jeffrey A. Miller,https://www.halliburton.com,75243
+434,Hanesbrands,Apparel,Winston-Salem,NC,Stephen B. Bratspies,https://www.hanes.com,2903
+435,Hanover Insurance Group,Financials,Worcester,MA,John C. Roche,https://www.hanover.com,2451
+436,Harley-Davidson,Transportation,Milwaukee,WI,Jochen Zeitz,https://www.harley-davidson.com,46514
+437,Harsco,Business Services,Camp Hill,PA,F. Nicholas Grasberger III,https://www.harsco.com,55415
+438,Hartford Financial Services Group,Financials,Hartford,CT,Christopher J. Swift,https://www.thehartford.com,10017
+439,Hasbro,Household Products,Pawtucket,RI,Christian Cocks,https://www.hasbro.com,1701
+440,Hawaiian Electric Industries,Energy,Honolulu,HI,Scott W.H. Seu,https://www.hei.com,19034
+441,HCA Healthcare,Health Care,Nashville,TN,Samuel N. Hazen,www.hcahealthcare.com,37027
+442,Henry Schein,Health Care,Melville,NY,Stanley Bergman,https://www.henryschein.com,44145
+443,Hershey,"Food, Beverages & Tobacco",Hershey,PA,Michele G. Buck,https://www.thehersheycompany.com,10017
+444,Hertz Global Holdings,Retailing,Estero,FL,Stephen M. Scherr,https://www.hertz.com,28202
+445,Hess,Energy,New York,NY,John B. Hess,https://www.hess.com,72762
+446,Hewlett Packard Enterprise,Technology,Houston,TX,Antonio F. Neri,https://www.hpe.com,55402
+447,HF Sinclair,Energy,Dallas,TX,Michael C. Jennings,https://www.hfsinclair.com,94158
+448,Hillenbrand,Industrials,Batesville,IN,Kimberly K. Ryan,https://www.hillenbrand.com,49525
+449,Hill-Rom Holdings,Health Care,Chicago,IL,John P. Groetelaars,https://www.hillrom.com,19406
+450,Hilton Grand Vacations,"Hotels, Restaurants & Leisure",Orlando,FL,Mark D. Wang,https://www.hgv.com,60440
+451,Hilton Worldwide Holdings,"Hotels, Restaurants & Leisure",McLean,VA,Christopher J. Nassetta,https://www.hilton.com,68179
+452,HNI,Household Products,Muscatine,IA,Jeffrey D. Lorenger,https://www.hnicorp.com,60606
+453,Hologic,Health Care,Marlborough,MA,Stephen MacMillan,https://www.hologic.com,2908
+454,Home Depot,Retailing,Atlanta,GA,Edward P. Decker,www.homedepot.com,30328
+455,Honeywell International,Industrials,Charlotte,NC,Darius E. Adamczyk,www.honeywell.com,6902
+456,Hormel Foods,"Food, Beverages & Tobacco",Austin,MN,James P. Snee,https://www.hormelfoods.com,78288
+457,Host Hotels & Resorts,Financials,Bethesda,MD,James F. Risoleo,https://www.hosthotels.com,15219
+458,Hovnanian Enterprises,Engineering & Construction,Matawan,NJ,Ara K. Hovnanian,https://www.khov.com,55343
+459,Howmet Aerospace,Aerospace & Defense,Pittsburgh,PA,John C. Plant,https://www.howmet.com,60515
+460,HP,Technology,Palo Alto,CA,Enrique J. Lores,www.hp.com,19406
+461,Hub Group,Transportation,Oak Brook,IL,David P. Yeager,https://www.hubgroup.com,37402
+462,Hubbell,Industrials,Shelton,CT,Gerben W. Bakker,https://www.hubbell.com,60018
+463,Humana,Health Care,Louisville,KY,Bruce D. Broussard,www.humana.com,78249
+464,Huntington Bancshares,Financials,Columbus,OH,Stephen D. Steinour,https://www.huntington.com,30328
+465,Huntington Ingalls Industries,Aerospace & Defense,Newport News,VA,Christopher D. Kastner,https://www.huntingtoningalls.com,10036
+466,Huntsman,Chemicals,The Woodlands,TX,Peter R. Huntsman,https://www.huntsman.com,2210
+467,Hyatt Hotels,"Hotels, Restaurants & Leisure",Chicago,IL,Mark S. Hoplamazian,https://www.hyatt.com,80202
+468,Hyster-Yale Materials Handling,Industrials,Cleveland,OH,Alfred M. Rankin Jr.,https://www.hyster-yale.com,15317
+469,IAC,Technology,New York,NY,Joseph M. Levin,https://www.iac.com,43068
+470,IBM,Technology,Armonk,NY,Arvind Krishna,https://www.ibm.com,94105
+471,Icahn Enterprises,Financials,Sunny Isles Beach,FL,David Willetts,https://www.ielp.com,75039
+472,IDEX,Industrials,Northbrook,IL,Eric D. Ashleman,https://www.idexcorp.com,6830
+473,IDEXX Laboratories,Health Care,Westbrook,ME,Jonathan J. Mazelsky,https://www.idexx.com,60045
+474,iHeartMedia,Media,San Antonio,TX,Robert W. Pittman,https://www.iheartmedia.com,60015
+475,Illinois Tool Works,Industrials,Glenview,IL,E. Scott Santi,https://www.itw.com,72716
+476,Illumina,Technology,San Diego,CA,Francis A. deSouza,https://www.illumina.com,91521
+477,Incyte,Health Care,Wilmington,DE,HervÃ© Hoppenot,https://www.incyte.com,10003
+478,Ingersoll Rand,Industrials,Davidson,NC,Vicente Reynal,https://www.irco.com,77002
+479,Ingles Markets,Food & Drug Stores,Black Mountain,NC,James W. Lanning,https://www.ingles-markets.com,2116
+480,Ingredion,"Food, Beverages & Tobacco",Westchester,IL,James P. Zallie,https://www.ingredion.com,53203
+481,Insight Enterprises,Technology,Tempe,AZ,Joyce A. Mullen,https://www.insight.com,94104
+482,Insperity,Business Services,Kingwood,TX,Paul J. Sarvadi,https://www.insperity.com,15219
+483,Intel,Technology,Santa Clara,CA,Patrick P. Gelsinger,www.intel.com,45202
+484,Interactive Brokers Group,Financials,Greenwich,CT,Milan Galik,https://www.interactivebrokers.com,95119
+485,Intercontinental Exchange,Financials,Atlanta,GA,Jeffrey C. Sprecher,https://www.ice.com,15212
+486,International Flavors & Fragrances,Chemicals,New York,NY,Franklin K. Clyburn Jr.,https://www.iff.com,77056
+487,International Paper,Materials,Memphis,TN,Mark S. Sutton,https://www.internationalpaper.com,30328
+488,Interpublic Group,Business Services,New York,NY,Daryl Lee,https://www.interpublic.com,98104
+489,Intuit,Technology,Mountain View,CA,Sasan K. Goodarzi,https://www.intuit.com,49022
+490,Intuitive Surgical,Health Care,Sunnyvale,CA,Gary S. Guthart,https://www.intuitive.com,74172
+491,IQVIA Holdings,Health Care,Durham,NC,Ari Bousbib,https://www.iqvia.com,94109
+492,Iron Mountain,Business Services,Boston,MA,William L. Meaney,https://www.ironmountain.com,33178
+493,ITT,Industrials,White Plains,NY,Luca Savi,https://www.itt.com,55401
+494,J.B. Hunt Transport Services,Transportation,Lowell,AR,John N. Roberts III,https://www.jbhunt.com,6851
+495,J.M. Smucker,"Food, Beverages & Tobacco",Orrville,OH,Mark T. Smucker,https://www.jmsmucker.com,6831
+496,Jabil,Technology,St. Petersburg,FL,Mark T. Mondello,www.jabil.com,40213
+497,Jackson Financial,Financials,Lansing,MI,Laura L. Prieskorn,https://www.jackson.com,75024
+498,Jacobs Engineering Group,Engineering & Construction,Dallas,TX,Steven J. Demetriou,https://www.jacobs.com,98101
+499,Jefferies Financial Group,Financials,New York,NY,Richard Handler,https://www.jefferies.com,46580
+500,JELD-WEN Holding,Materials,Charlotte,NC,Kevin C. Lilly,https://www.jeld-wen.com,7054
+501,JetBlue Airways,Transportation,Long Island City,NY,Robin Hayes,https://www.jetblue.com,0
+502,Joann,Retailing,Hudson,OH,Wade D. Miquelon,https://www.joann.com,0
+503,Johnson & Johnson,Health Care,New Brunswick,NJ,Joaquin Duato,www.jnj.com,0
+504,Jones Financial (Edward Jones),Financials,Des Peres,MO,Penny Pennington,https://www.edwardjones.com,0
+505,Jones Lang LaSalle,Financials,Chicago,IL,Christian Ulbrich,https://www.jll.com,0
+506,JPMorgan Chase,Financials,New York,NY,James Dimon,www.jpmorganchase.com,0
+507,Juniper Networks,Technology,Sunnyvale,CA,Rami Rahim,https://www.juniper.net,0
+508,Kaiser Aluminum,Materials,Foothill Ranch,CA,Keith A. Harvey,https://www.kaiseraluminum.com,0
+509,Kar Auction Services,Wholesalers,Carmel,IN,Peter J. Kelly,https://www.karglobal.com,0
+510,KB Home,Engineering & Construction,Los Angeles,CA,Jeffrey T. Mezger,https://www.kbhome.com,0
+511,KBR,Engineering & Construction,Houston,TX,Stuart J.B. Bradie,https://www.kbr.com,0
+512,Kellogg,"Food, Beverages & Tobacco",Battle Creek,MI,Steven A. Cahillane,https://www.kelloggcompany.com,0
+513,Kelly Services,Business Services,Troy,MI,Peter W. Quigley,https://www.kellyservices.com,0
+514,Kemper,Financials,Chicago,IL,Joseph P. Lacher Jr.,https://www.kemper.com,0
+515,Keurig Dr Pepper,"Food, Beverages & Tobacco",Burlington,MA,Ozan Dokmecioglu,https://www.keurigdrpepper.com,0
+516,KeyCorp,Financials,Cleveland,OH,Christopher M. Gorman,https://www.key.com,0
+517,Keysight Technologies,Technology,Santa Rosa,CA,Satish Dhanasekaran,https://www.keysight.com,0
+518,Kimberly-Clark,Household Products,Irving,TX,Michael D. Hsu,https://www.kimberly-clark.com,0
+519,Kinder Morgan,Energy,Houston,TX,Steven J. Kean,https://www.kindermorgan.com,0
+520,Kirby,Transportation,Houston,TX,David W. Grzebinski,https://www.kirbycorp.com,0
+521,KKR,Financials,New York,NY,Joseph Y. Bae/Scott C. Nuttall,https://www.kkr.com,0
+522,KLA,Technology,Milpitas,CA,Richard P. Wallace,https://www.kla.com,0
+523,Knights of Columbus,Financials,New Haven,CT,Patrick E. Kelly,https://www.kofc.org,0
+524,Knight-Swift Transportation Holdings,Transportation,Phoenix,AZ,David A. Jackson,https://www.knighttrans.com,0
+525,Kohl's,Retailing,Menomonee Falls,WI,Michelle D. Gass,https://www.kohls.com,0
+526,Kontoor Brands,Apparel,Greensboro,NC,Scott H. Baxter,https://www.kontoorbrands.com,0
+527,Kraft Heinz,"Food, Beverages & Tobacco",Chicago,IL,Miguel Patricio,https://www.kraftheinzcompany.com,0
+528,Kroger,Food & Drug Stores,Cincinnati,OH,W. Rodney McMullen,www.thekrogerco.com,0
+529,L3Harris Technologies,Aerospace & Defense,Melbourne,FL,Christopher E. Kubasik,https://www.l3harris.com,0
+530,Laboratory Corp. of America,Health Care,Burlington,NC,Adam H. Schechter,https://www.labcorp.com,0
+531,Lam Research,Technology,Fremont,CA,Timothy M. Archer,https://www.lamresearch.com,0
+532,Lamb Weston Holdings,"Food, Beverages & Tobacco",Eagle,ID,Thomas P. Werner,https://www.lambweston.com,0
+533,Land O'Lakes,"Food, Beverages & Tobacco",Arden Hills,MN,Beth E. Ford,https://www.landolakesinc.com,0
+534,Landstar System,Transportation,Jacksonville,FL,James B. Gattoni,https://www.landstar.com,0
+535,Las Vegas Sands,"Hotels, Restaurants & Leisure",Las Vegas,NV,Robert G. Goldstein,https://www.sands.com,0
+536,LCI Industries,Motor Vehicles & Parts,Elkhart,IN,Jason D. Lippert,https://www.lci1.com,0
+537,Lear,Motor Vehicles & Parts,Southfield,MI,Raymond E. Scott,https://www.lear.com,0
+538,Leggett & Platt,Household Products,Carthage,MO,J. Mitchell Dolloff,https://www.leggett.com,0
+539,Leidos Holdings,Technology,Reston,VA,Roger A. Krone,https://www.leidos.com,0
+540,Lennar,Engineering & Construction,Miami,FL,Jonathan M. Jaffe/Richard Beckwitt,https://www.lennar.com,0
+541,Lennox International,Industrials,Richardson,TX,Alok Maskara,https://www.lennoxinternational.com,0
+542,Levi Strauss,Apparel,San Francisco,CA,Charles Bergh,https://www.levistrauss.com,0
+543,LGI Homes,Engineering & Construction,The Woodlands,TX,Eric Lipar,https://www.lgihomes.com,0
+544,LHC Group,Health Care,Lafayette,LA,Keith G. Myers,https://www.lhcgroup.com,0
+545,Liberty Energy,Energy,Denver,CO,Christopher A. Wright,https://www.libertyfrac.com,0
+546,Liberty Media,Media,Englewood,CO,Gregory B. Maffei,https://www.libertymedia.com,0
+547,Liberty Mutual Insurance Group,Financials,Boston,MA,David H. Long,www.libertymutual.com,0
+548,Light & Wonder,"Hotels, Restaurants & Leisure",Las Vegas,NV,Matt Wilson,https://www.lnw.com,0
+549,Lincoln Electric Holdings,Industrials,Cleveland,OH,Christopher L. Mapes,https://www.lincolnelectric.com,0
+550,Lincoln National,Financials,Radnor,PA,Ellen G. Cooper,https://www.lfg.com,0
+551,Lithia Motors,Retailing,Medford,OR,Bryan DeBoer,https://www.lithiainvestorrelations.com,0
+552,Live Nation Entertainment,Media,Beverly Hills,CA,Michael Rapino,https://www.livenationentertainment.com,0
+553,LKQ,Wholesalers,Chicago,IL,Dominick P. Zarcone,https://www.lkqcorp.com,0
+554,loanDepot,Financials,Foothill Ranch,CA,Frank Martell,https://www.loandepot.com,0
+555,Lockheed Martin,Aerospace & Defense,Bethesda,MD,James D. Taiclet Jr.,www.lockheedmartin.com,0
+556,Loews,Financials,New York,NY,James S. Tisch,https://www.loews.com,0
+557,Louisiana-Pacific,Materials,Nashville,TN,W. Bradley Southern,https://www.lpcorp.com,0
+558,Lowe's,Retailing,Mooresville,NC,Marvin R. Ellison,www.lowes.com,0
+559,LPL Financial Holdings,Financials,San Diego,CA,Dan H. Arnold,https://www.lpl.com,0
+560,Lululemon athletica,Retailing,Sumner,WA,Calvin McDonald,https://www.lululemon.com,0
+561,Lumen Technologies,Telecommunications,Monroe,LA,Jeffrey K. Storey,https://www.lumen.com,0
+562,Lyft,Technology,San Francisco,CA,Logan Green,https://www.lyft.com,0
+563,M&T Bank,Financials,Buffalo,NY,RenÃ© F. Jones,https://www.mtb.com,0
+564,M/I Homes,Engineering & Construction,Columbus,OH,Robert H. Schottenstein,https://www.mihomes.com,0
+565,Macy's,Retailing,New York,NY,Jeffrey Gennette,https://www.macysinc.com,0
+566,Magellan Midstream Partners,Energy,Tulsa,OK,Aaron L. Milford,https://www.magellanlp.com,0
+567,ManpowerGroup,Business Services,Milwaukee,WI,Jonas Prising,https://www.manpowergroup.com,0
+568,ManTech International,Technology,Herndon,VA,Kevin M. Phillips,https://www.mantech.com,0
+569,Marathon Oil,Energy,Houston,TX,Lee M. Tillman,https://www.marathonoil.com,0
+570,Marathon Petroleum,Energy,Findlay,OH,Michael J. Hennigan,www.marathonpetroleum.com,0
+571,Markel,Financials,Glen Allen,VA,Thomas S. Gayner/Richard R. Whitt III,https://www.markel.com,0
+572,Marriott International,"Hotels, Restaurants & Leisure",Bethesda,MD,Anthony G. Capuano,https://www.marriott.com,0
+573,Marriott Vacations Worldwide,"Hotels, Restaurants & Leisure",Orlando,FL,Stephen P. Weisz,https://www.marriottvacationsworldwide.com,0
+574,Marsh & McLennan,Financials,New York,NY,Daniel S. Glaser,https://www.marshmclennan.com,0
+575,Martin Marietta Materials,Materials,Raleigh,NC,C. Howard Nye,https://www.martinmarietta.com,0
+576,Marvell Technology,Technology,Wilmington,DE,Matthew J. Murphy,https://www.marvell.com,0
+577,Masco,Household Products,Livonia,MI,Keith J. Allman,https://www.masco.com,0
+578,Massachusetts Mutual Life Insurance,Financials,Springfield,MA,Roger W. Crandall,www.massmutual.com,0
+579,MasTec,Engineering & Construction,Coral Gables,FL,JosÃ© R. Mas,https://www.mastec.com,0
+580,Mastercard,Business Services,Purchase,NY,Michael Miebach,https://www.mastercard.com,0
+581,Match Group,Technology,Dallas,TX,Bernard Kim,https://www.mtch.com,0
+582,Matson,Transportation,Honolulu,HI,Matthew J. Cox,https://www.matson.com,0
+583,Mattel,Household Products,El Segundo,CA,Ynon Kreiz,https://www.mattel.com,0
+584,Mattress Firm Group,Retailing,Houston,TX,John W. Eck,https://www.mattressfirm.com,0
+585,Maxim Integrated Products,Technology,San Jose,CA,Vincent T. Roche,https://www.maximintegrated.com,0
+586,Maximus,Technology,Reston,VA,Bruce L. Caswell,https://www.maximus.com,0
+587,McAfee,Technology,San Jose,CA,Greg Johnson,https://www.mcafee.com,0
+588,McCormick,"Food, Beverages & Tobacco",Hunt Valley,MD,Lawrence Kurzius,https://www.mccormickcorporation.com,0
+589,McDonald's,"Hotels, Restaurants & Leisure",Chicago,IL,Christopher J. Kempczinski,https://www.investor.mcdonalds.com,0
+590,McKesson,Health Care,Irving,TX,Brian S. Tyler,www.mckesson.com,0
+591,MDC Holdings,Engineering & Construction,Denver,CO,David D. Mandarich,https://www.mdcholdings.com,0
+592,MDU Resources Group,Energy,Bismarck,ND,David L. Goodin,https://www.mdu.com,0
+593,Medical Mutual of Ohio,Financials,Cleveland,OH,Steven C. Glass,https://www.medmutual.com,0
+594,Merck,Health Care,Kenilworth,NJ,Robert Davis,https://www.merck.com,0
+595,Mercury General,Financials,Los Angeles,CA,Gabriel Tirador,https://www.mercuryinsurance.com,0
+596,Meritage Homes,Engineering & Construction,Scottsdale,AZ,Phillippe Lord,https://www.meritagehomes.com,0
+597,Meritor,Motor Vehicles & Parts,Troy,MI,Chris Villavarayan,https://www.meritor.com,0
+598,Meta Platforms,Technology,Menlo Park,CA,Mark Zuckerberg,https://investor.fb.com,0
+599,MetLife,Financials,New York,NY,Michel A. Khalaf,www.metlife.com,0
+600,Mettler-Toledo International,Technology,Columbus,OH,Patrick Kaltenbach,https://www.mt.com,0
+601,MGM Resorts International,"Hotels, Restaurants & Leisure",Las Vegas,NV,William J. Hornbuckle,https://www.mgmresorts.com,0
+602,Microchip Technology,Technology,Chandler,AZ,Ganesh Moorthy,https://www.microchip.com,0
+603,Micron Technology,Technology,Boise,ID,Sanjay Mehrotra,https://www.micron.com,0
+604,Microsoft,Technology,Redmond,WA,Satya Nadella,www.microsoft.com,0
+605,Middleby,Industrials,Elgin,IL,Timothy J. FitzGerald,https://www.middleby.com,0
+606,MillerKnoll,Household Products,Zeeland,MI,Andrea R. Owen,https://www.millerknoll.com,0
+607,MKS Instruments,Technology,Andover,MA,John T.C. Lee,https://www.mksinst.com,0
+608,Moderna,Health Care,Cambridge,MA,Stephane Bancel,https://www.modernatx.com,0
+609,Mohawk Industries,Household Products,Calhoun,GA,Jeffrey S. Lorberbaum,https://www.mohawkind.com,0
+610,Molina Healthcare,Health Care,Long Beach,CA,Joseph M. Zubretsky,https://www.molinahealthcare.com,0
+611,Molson Coors Beverage,"Food, Beverages & Tobacco",Chicago,IL,Gavin D.K. Hattersley,https://www.molsoncoors.com,0
+612,Mondelez International,"Food, Beverages & Tobacco",Chicago,IL,Dirk Van de Put,www.mondelezinternational.com,0
+613,Monster Beverage,"Food, Beverages & Tobacco",Corona,CA,#REF!,https://www.monsterbevcorp.com,0
+614,Moody's,Business Services,New York,NY,Robert S. Fauber,https://www.moodys.com,0
+615,Moog,Aerospace & Defense,East Aurora,NY,John R. Scannell,https://www.moog.com,0
+616,Morgan Stanley,Financials,New York,NY,James P. Gorman,www.morganstanley.com,0
+617,Mosaic,Chemicals,Tampa,FL,James C. O&#039;Rourke,https://www.mosaicco.com,0
+618,Motorola Solutions,Technology,Chicago,IL,Gregory Q. Brown,https://www.motorolasolutions.com,0
+619,Mr. Cooper Group,Financials,Coppell,TX,Jay Bray,https://www.mrcoopergroup.com,0
+620,MRC Global,Energy,Houston,TX,Robert J. Saltiel Jr.,https://www.mrcglobal.com,0
+621,MSC Industrial Direct,Wholesalers,Melville,NY,Erik Gershwind,https://www.mscdirect.com,0
+622,Mueller Industries,Industrials,Collierville,TN,Gregory L. Christopher,https://www.muellerindustries.com,0
+623,Murphy Oil,Energy,Houston,TX,Roger W. Jenkins,https://www.murphyoilcorp.com,0
+624,Murphy USA,Retailing,El Dorado,AR,R. Andrew Clyde,https://www.murphyusa.com,0
+625,Mutual of America Life Insurance,Financials,New York,NY,John R. Greed,https://www.mutualofamerica.com,0
+626,Mutual of Omaha Insurance,Financials,Omaha,NE,James T. Blackledge,https://www.mutualofomaha.com,0
+627,MYR Group,Engineering & Construction,Henderson,CO,Richard S. Swartz,https://www.myrgroup.com,0
+628,Nasdaq,Financials,New York,NY,Adena T. Friedman,https://www.nasdaq.com,0
+629,Nationwide,Financials,Columbus,OH,Kirt A. Walker,www.nationwide.com,0
+630,Navient,Financials,Wilmington,DE,John F. Remondi,https://www.navient.com,0
+631,NCR,Technology,Atlanta,GA,Michael D. Hayford,https://www.ncr.com,0
+632,NetApp,Technology,San Jose,CA,George Kurian,https://www.netapp.com,0
+633,Netflix,Media,Los Gatos,CA,Ted Sarandos/Reed Hastings,www.netflix.com,0
+634,New Jersey Resources,Energy,Wall,NJ,Stephen D. Westhoven,https://www.njresources.com,0
+635,New York Life Insurance,Financials,New York,NY,Craig DeSanto,www.newyorklife.com,0
+636,Newell Brands,Household Products,Atlanta,GA,Ravichandra K. Saligram,https://www.newellbrands.com,0
+637,Newmark Group,Financials,New York,NY,Barry M. Gosin,https://www.nmrk.com,0
+638,NewMarket,Chemicals,Richmond,VA,Thomas E. Gottwald,https://www.newmarket.com,0
+639,Newmont,Energy,Denver,CO,Thomas R. Palmer,https://www.newmont.com,0
+640,News Corp.,Media,New York,NY,Robert J. Thomson,https://www.newscorp.com,0
+641,Nexstar Media Group,Media,Irving,TX,Perry Sook,https://www.nexstar.tv,0
+642,NextEra Energy,Energy,Juno Beach,FL,John W. Ketchum,https://www.nexteraenergy.com,0
+643,NGL Energy Partners,Energy,Tulsa,OK,H. Michael Krimbill,https://www.nglenergypartners.com,0
+644,Nike,Apparel,Beaverton,OR,John J. Donahoe II,www.nike.com,0
+645,NiSource,Energy,Merrillville,IN,Lloyd M. Yates,https://www.nisource.com,0
+646,NLV Financial,Financials,Montpelier,VT,Mehran Assadi,https://www.nationallife.com,0
+647,Nordson,Industrials,Westlake,OH,Sundaram Nagarajan,https://www.nordson.com,0
+648,Nordstrom,Retailing,Seattle,WA,Erik B. Nordstrom,https://www.nordstrom.com,0
+649,Norfolk Southern,Transportation,Atlanta,GA,Alan H. Shaw,https://www.norfolksouthern.com,0
+650,Northern Trust,Financials,Chicago,IL,Michael G. O&#039;Grady,https://www.northerntrust.com,0
+651,Northrop Grumman,Aerospace & Defense,Falls Church,VA,Kathy J. Warden,www.northropgrumman.com,0
+652,Northwestern Mutual,Financials,Milwaukee,WI,John E. Schlifske,www.northwesternmutual.com,0
+653,NortonLifeLock,Technology,Tempe,AZ,Vincent Pilette,https://www.nortonlifelock.com,0
+654,NOV,Energy,Houston,TX,Clay C. Williams,https://www.nov.com,0
+655,NRG Energy,Energy,Houston,TX,Mauricio Gutierrez,https://www.nrg.com,0
+656,Nu Skin Enterprises,Household Products,Provo,UT,Ryan S. Napierski,https://www.nuskin.com,0
+657,Nucor,Materials,Charlotte,NC,Leon J. Topalian,www.nucor.com,0
+658,Nvidia,Technology,Santa Clara,CA,Jensen Huang,https://www.nvidia.com,0
+659,NVR,Engineering & Construction,Reston,VA,Eugene J. Bredow,https://www.nvrinc.com,0
+660,Occidental Petroleum,Energy,Houston,TX,Vicki A. Hollub,https://www.oxy.com,0
+661,ODP,Retailing,Boca Raton,FL,Gerry P. Smith,https://www.officedepot.com,0
+662,OGE Energy,Energy,Oklahoma City,OK,Sean Trauschke,https://www.ogeenergy.com,0
+663,Ohio National Mutual,Financials,Cincinnati,OH,Barbara Turner,https://www.ohionational.com,0
+664,O-I Glass,Materials,Perrysburg,OH,Andres A. Lopez,https://www.o-i.com,0
+665,Old Dominion Freight Line,Transportation,Thomasville,NC,Greg C. Gantt,https://www.odfl.com,0
+666,Old Republic International,Financials,Chicago,IL,Craig R. Smiddy,https://www.oldrepublic.com,0
+667,Olin,Chemicals,Clayton,MO,Scott M. Sutton,https://www.olin.com,0
+668,Olympic Steel,Materials,Highland Hills,OH,Richard T. Marabito,https://www.olysteel.com,0
+669,Omnicom Group,Business Services,New York,NY,John D. Wren,https://www.omnicomgroup.com,0
+670,ON Semiconductor,Technology,Phoenix,AZ,Hassane S. El-Khoury,https://www.onsemi.com,0
+671,OneMain Holdings,Financials,Evansville,IN,Douglas H. Shulman,https://www.omf.com,0
+672,Oneok,Energy,Tulsa,OK,Pierce H. Norton II,https://www.oneok.com,0
+673,Opendoor Technologies,Technology,San Francisco,CA,Eric Wu,https://www.opendoor.com,0
+674,Option Care Health,Health Care,Bannockburn,IL,John C. Rademacher,https://www.optioncarehealth.com,0
+675,Oracle,Technology,Austin,TX,Safra A. Catz,www.oracle.com,0
+676,O'Reilly Automotive,Retailing,Springfield,MO,Gregory D. Johnson,https://www.oreillyauto.com,0
+677,Oshkosh,Industrials,Oshkosh,WI,John C. Pfeifer,https://www.oshkoshcorp.com,0
+678,Otis Worldwide,Industrials,Farmington,CT,Judith F. Marks,https://www.otis.com,0
+679,Overstock.com,Retailing,Midvale,UT,Jonathan E. Johnson III,https://www.overstock.com,0
+680,Ovintiv,Energy,Denver,CO,Brendan M. McCracken,https://www.ovintiv.com,0
+681,Owens & Minor,Health Care,Mechanicsville,VA,Edward A. Pesicka,https://www.owens-minor.com,0
+682,Owens Corning,Materials,Toledo,OH,Brian D. Chambers,https://www.owenscorning.com,0
+683,Paccar,Motor Vehicles & Parts,Bellevue,WA,R. Preston Feight,https://www.paccar.com,0
+684,Pacific Life,Financials,Newport Beach,CA,Darryl Button,https://www.pacificlife.com,0
+685,Packaging Corp. of America,Materials,Lake Forest,IL,Mark W. Kowlzan,https://www.packagingcorp.com,0
+686,Palo Alto Networks,Technology,Santa Clara,CA,Nikesh Arora,https://www.paloaltonetworks.com,0
+687,Par Pacific Holdings,Energy,Houston,TX,William C. Pate,https://www.parpacific.com,0
+688,Paramount Global,Media,New York,NY,Robert M. Bakish,www.paramount.com,0
+689,Parker-Hannifin,Industrials,Cleveland,OH,Thomas L. Williams,https://www.parker.com,0
+690,Parsons,Aerospace & Defense,Centreville,VA,Carey A. Smith,https://www.parsons.com,0
+691,Party City Holdco,Retailing,Elmsford,NY,Brad Weston,https://www.partycity.com,0
+692,Patrick Industries,Materials,Elkhart,IN,Andy L. Nemeth,https://www.patrickind.com,0
+693,Patterson,Health Care,St. Paul,MN,Mark S. Walchirk,https://www.pattersoncompanies.com,0
+694,Paychex,Business Services,Rochester,NY,John B. Gibson,https://www.paychex.com,0
+695,PayPal,Business Services,San Jose,CA,Daniel Schulman,https://www.paypal.com,0
+696,PBF Energy,Energy,Parsippany,NJ,Thomas J. Nimbley,https://www.pbfenergy.com,0
+697,PC Connection,Wholesalers,Merrimack,NH,Timothy J. McGrath,https://www.connection.com,0
+698,Peabody Energy,Energy,St. Louis,MO,James C. Grech,https://www.peabodyenergy.com,0
+699,Peloton Interactive,"Hotels, Restaurants & Leisure",New York,NY,Barry McCarthy,https://www.onepeloton.com,0
+700,PENN Entertainment,"Hotels, Restaurants & Leisure",Wyomissing,PA,Jay A. Snowden,https://www.pennentertainment.com,0
+701,Penn Mutual Life Insurance,Financials,Horsham,PA,David M. O&#039;Malley,https://www.pennmutual.com,0
+702,PennyMac Financial Services,Financials,Westlake Village,CA,David Spector,https://ir.pennymacfinancial.com,0
+703,Penske Automotive Group,Retailing,Bloomfield Hills,MI,Roger S. Penske,https://www.penskeautomotive.com,0
+704,PepsiCo,"Food, Beverages & Tobacco",Purchase,NY,Ramon L. Laguarta,www.pepsico.com,0
+705,Performance Food Group,Wholesalers,Richmond,VA,George L. Holm,www.pfgc.com,0
+706,PerkinElmer,Health Care,Waltham,MA,Prahlad Singh,https://www.perkinelmer.com,0
+707,Petco Health and Wellness,Retailing,San Diego,CA,Ronald Coughlin Jr.,https://www.petco.com,0
+708,Peter Kiewit Sons',Engineering & Construction,Omaha,NE,Rick Lanoha,https://www.kiewit.com,0
+709,Pfizer,Health Care,New York,NY,Albert Bourla,www.pfizer.com,0
+710,PG&E,Energy,San Francisco,CA,Patricia K. Poppe,https://www.pgecorp.com,0
+711,Philip Morris International,"Food, Beverages & Tobacco",New York,NY,Jacek Olczak,www.pmi.com,0
+712,Phillips 66,Energy,Houston,TX,Mark E. Lashier,www.phillips66.com,0
+713,Pinnacle West Capital,Energy,Phoenix,AZ,Jeffrey B Guldner,https://www.pinnaclewest.com,0
+714,Pinterest,Technology,San Francisco,CA,William J. Ready,https://https://investor.pinterestinc.com,0
+715,Pioneer Natural Resources,Energy,Irving,TX,Scott D. Sheffield,https://www.pxd.com,0
+716,Pitney Bowes,Technology,Stamford,CT,Marc B. Lautenbach,https://www.pitneybowes.com,0
+717,Plains GP Holdings,Energy,Houston,TX,Wilfred C.W. Chiang,www.plains.com,0
+718,Playtika Holding,Media,Henderson,NV,Robert Antokol,https://www.playtika.com,0
+719,Plexus,Technology,Neenah,WI,Todd P. Kelsey,https://www.plexus.com,0
+720,PNC Financial Services Group,Financials,Pittsburgh,PA,William S. Demchak,https://www.pnc.com,0
+721,Polaris,Transportation,Medina,MN,Michael T. Speetzen,https://www.polaris.com,0
+722,Pool,Wholesalers,Covington,LA,Peter Arvan,https://www.poolcorp.com,0
+723,Popular,Financials,Hato Rey,PR,Ignacio Alvarez,https://www.popular.com,0
+724,Portland General Electric,Energy,Portland,OR,Maria M. Pope,https://www.portlandgeneral.com,0
+725,Post Holdings,"Food, Beverages & Tobacco",St. Louis,MO,Robert V. Vitale,https://www.postholdings.com,0
+726,PPG Industries,Chemicals,Pittsburgh,PA,Michael H. McGarry,https://www.ppg.com,0
+727,PPL,Energy,Allentown,PA,Vincent Sorgi,https://www.pplweb.com,0
+728,PriceSmart,Retailing,San Diego,CA,Sherry S. Bahrambeygui,https://www.pricesmart.com,0
+729,Primerica,Financials,Duluth,GA,Glenn J. Williams,https://www.primerica.com,0
+730,Primoris Services,Engineering & Construction,Dallas,TX,Thomas E. McCormick,https://www.primoriscorp.com,0
+731,Principal Financial,Financials,Des Moines,IA,Daniel J. Houston,https://www.principal.com,0
+732,Procter & Gamble,Household Products,Cincinnati,OH,Jon R. Moeller,www.pg.com,0
+733,PROG Holdings,Financials,Draper,UT,Steven A. Michaels,https://www.progleasing.com,0
+734,Progressive,Financials,Mayfield Village,OH,Susan Patricia Griffith,www.progressive.com,0
+735,Prologis,Financials,San Francisco,CA,Hamid R. Moghadam,https://www.prologis.com,0
+736,Prudential Financial,Financials,Newark,NJ,Charles F. Lowrey,www.prudential.com,0
+737,Public Service Enterprise Group,Energy,Newark,NJ,Ralph A. LaRossa,https://www.pseg.com,0
+738,Public Storage,Financials,Glendale,CA,Joseph D. Russell Jr.,https://www.publicstorage.com,0
+739,Publix Super Markets,Food & Drug Stores,Lakeland,FL,Randall T. Jones Sr.,www.publix.com,0
+740,Puget Energy,Energy,Bellevue,WA,Mary E. Kipp,https://www.pugetenergy.com,0
+741,PulteGroup,Engineering & Construction,Atlanta,GA,Ryan R. Marshall,https://www.pultegroupinc.com,0
+742,Pure Storage,Technology,Mountain View,CA,Charles H. Giancarlo,https://www.purestorage.com,0
+743,PVH,Apparel,New York,NY,Stefan Larsson,https://www.pvh.com,0
+744,Qorvo,Technology,Greensboro,NC,Robert A. Bruggeworth,https://www.qorvo.com,0
+745,Quad/Graphics,Media,Sussex,WI,J. Joel Quadracci,https://www.quad.com,0
+746,Qualcomm,Technology,San Diego,CA,Cristiano Amon,https://www.qualcomm.com,0
+747,Quanta Services,Engineering & Construction,Houston,TX,Earl C. Austin Jr.,https://www.quantaservices.com,0
+748,Quest Diagnostics,Health Care,Secaucus,NJ,James E. Davis,https://www.questdiagnostics.com,0
+749,Qurate Retail,Retailing,Englewood,CO,David L. Rawlinson II,https://www.qurateretail.com,0
+750,R.R. Donnelley & Sons,Media,Chicago,IL,Thomas J. Quinlan III,https://www.rrd.com,0
+751,Rackspace Technology,Technology,San Antonio,TX,Amar Maletira,https://www.rackspace.com,0
+752,Ralph Lauren,Apparel,New York,NY,Patrice Louvet,https://www.ralphlauren.com,0
+753,Range Resources,Energy,Fort Worth,TX,Jeffrey L. Ventura,https://www.rangeresources.com,0
+754,Raymond James Financial,Financials,St. Petersburg,FL,Paul C. Reilly,https://www.raymondjames.com,0
+755,Raytheon Technologies,Aerospace & Defense,Waltham,MA,Gregory J. Hayes,www.rtx.com,0
+756,Regal Rexnord,Industrials,Beloit,WI,Louis V. Pinkham,https://www.regalrexnord.com,0
+757,Regeneron Pharmaceuticals,Health Care,Tarrytown,NY,Leonard Schleifer,https://www.regeneron.com,0
+758,Regions Financial,Financials,Birmingham,AL,John M. Turner Jr.,https://www.regions.com,0
+759,Reinsurance Group of America,Financials,Chesterfield,MO,Anna Manning,https://www.rgare.com,0
+760,Reliance Steel & Aluminum,Materials,Los Angeles,CA,James D. Hoffman,https://www.rsac.com,0
+761,Renewable Energy Group,Energy,Ames,IA,Kevin E. Lucke,https://www.regi.com,0
+762,Rent-A-Center,Retailing,Plano,TX,Mitchell E. Fadel,https://www.rentacenter.com,0
+763,Republic Services,Business Services,Phoenix,AZ,Jon Vander Ark,https://www.republicservices.com,0
+764,Resideo Technologies,Materials,Scottsdale,AZ,Jay L. Geldmacher,https://www.resideo.com,0
+765,ResMed,Health Care,San Diego,CA,Michael J. Farrell,https://www.resmed.com,0
+766,Resolute Forest Products,Materials,Calhoun,TN,Remi G. Lalonde,https://www.resolutefp.com,0
+767,REV Group,Motor Vehicles & Parts,Brookfield,WI,Rodney N. Rushing,https://www.revgroup.com,0
+768,RH,Retailing,Corte Madera,CA,Gary G. Friedman,https://www.rh.com,0
+769,Rite Aid,Food & Drug Stores,Camp Hill,PA,Heyward Donigan,https://www.riteaid.com,0
+770,Rithm Capital,Financials,New York,NY,Michael Nierenberg,https://www.rithmcap.com,0
+771,Robert Half International,Business Services,Menlo Park,CA,M. Keith Waddell,https://www.roberthalf.com,0
+772,Rocket Companies,Financials,Detroit,MI,Jay D. Farner,https://www.rocketcompanies.com,0
+773,Rockwell Automation,Industrials,Milwaukee,WI,Blake D. Moret,https://www.rockwellautomation.com,0
+774,Roku,Media,San Jose,CA,Anthony J. Wood,https://www.roku.com,0
+775,Rollins,Business Services,Atlanta,GA,Gary W. Rollins,https://www.rollins.com,0
+776,Roper Technologies,Technology,Sarasota,FL,L. Neil Hunn,https://www.ropertech.com,0
+777,Ross Stores,Retailing,Dublin,CA,Barbara Rentler,https://www.rossstores.com,0
+778,RPM International,Chemicals,Medina,OH,Frank C. Sullivan,https://www.rpminc.com,0
+779,Rush Enterprises,Retailing,New Braunfels,TX,W. M. Rush,https://www.rushenterprises.com,0
+780,Ryder System,Transportation,Miami,FL,Robert E. Sanchez,https://www.ryder.com,0
+781,Ryerson Holding,Materials,Chicago,IL,Edward J. Lehner,https://www.ryerson.com,0
+782,S&P Global,Business Services,New York,NY,Douglas L. Peterson,https://www.spglobal.com,0
+783,Saia,Transportation,Johns Creek,GA,Frederick J. Holzgrefe III,https://www.saia.com,0
+784,Salesforce,Technology,San Francisco,CA,Marc R. Benioff/Bret Taylor,https://www.salesforce.com,0
+785,Sally Beauty Holdings,Retailing,Denton,TX,Denise A. Paulonis,https://www.sallybeautyholdings.com,0
+786,Sanderson Farms,"Food, Beverages & Tobacco",Laurel,MS,Joe F. Sanderson Jr.,https://www.sandersonfarms.com,0
+787,Sanmina,Technology,San Jose,CA,Jure Sola,https://www.sanmina.com,0
+788,SBA Communications,Financials,Boca Raton,FL,Jeffrey A. Stoops,https://www.sbasite.com,0
+789,ScanSource,Wholesalers,Greenville,SC,Michael L. Baur,https://www.scansource.com,0
+790,Schneider National,Transportation,Green Bay,WI,Mark B. Rourke,https://www.schneider.com,0
+791,Schnitzer Steel Industries,Materials,Portland,OR,Tamara L. Lundgren,https://www.schnitzersteel.com,0
+792,Science Applications International,Technology,Reston,VA,Nazzic S. Keene,https://www.saic.com,0
+793,Scotts Miracle-Gro,Chemicals,Marysville,OH,James S. Hagedorn,https://www.scotts.com,0
+794,Seaboard,"Food, Beverages & Tobacco",Merriam,KS,Robert L. Steer,https://www.seaboardcorp.com,0
+795,Sealed Air,Materials,Charlotte,NC,Edward L. Doheny II,https://www.sealedair.com,0
+796,Securian Financial Group,Financials,St. Paul,MN,Christopher M. Hilger,https://www.securian.com,0
+797,Select Medical Holdings,Health Care,Mechanicsburg,PA,David S. Chernow,https://www.selectmedicalholdings.com,0
+798,Selective Insurance Group,Financials,Branchville,NJ,John J. Marchioni,https://www.selective.com,0
+799,Sempra,Energy,San Diego,CA,Jeffrey W. Martin,https://www.sempra.com,0
+800,Sentry Insurance Group,Financials,Stevens Point,WI,Peter G. McPartland,https://www.sentry.com,0
+801,Service Corp. International,Business Services,Houston,TX,Thomas L. Ryan,https://www.sci-corp.com,0
+802,ServiceNow,Technology,Santa Clara,CA,William McDermott,https://www.servicenow.com,0
+803,Sherwin-Williams,Chemicals,Cleveland,OH,John G. Morikis,https://www.sherwin-williams.com,0
+804,Signature Bank,Financials,New York,NY,Joseph J. DePaolo,https://www.signatureny.com,0
+805,Silgan Holdings,Materials,Stamford,CT,Adam J. Greenlee,https://www.silganholdings.com,0
+806,Simon Property Group,Financials,Indianapolis,IN,David E. Simon,https://www.simon.com,0
+807,Sinclair Broadcast Group,Media,Hunt Valley,MD,Christopher S. Ripley,https://www.sbgi.net,0
+808,SiteOne Landscape Supply,Wholesalers,Roswell,GA,Doug Black,https://www.siteone.com,0
+809,Skechers U.S.A.,Apparel,Manhattan Beach,CA,Robert Greenberg,https://www.skechers.com,0
+810,SkyWest,Transportation,St. George,UT,Russell A. Childs,https://www.skywest.com,0
+811,Skyworks Solutions,Technology,Irvine,CA,Liam K. Griffin,https://www.skyworksinc.com,0
+812,Sleep Number,Retailing,Minneapolis,MN,Shelly R. Ibach,https://www.sleepnumber.com,0
+813,SLM,Financials,Newark,DE,Jonathan W. Witter,https://www.salliemae.com,0
+814,SM Energy,Energy,Denver,CO,Herbert S. Vogel,https://www.sm-energy.com,0
+815,Snap,Technology,Santa Monica,CA,Evan Spiegel,https://www.snap.com,0
+816,Snap-on,Industrials,Kenosha,WI,Nicholas T. Pinchuk,https://www.snapon.com,0
+817,Sonic Automotive,Retailing,Charlotte,NC,David Bruton Smith,https://www.sonicautomotive.com,0
+818,Sonoco Products,Materials,Hartsville,SC,R. Howard Coker,https://www.sonoco.com,0
+819,Southern,Energy,Atlanta,GA,Thomas A. Fanning,https://www.southerncompany.com,0
+820,Southwest Airlines,Transportation,Dallas,TX,Robert E. Jordan,https://www.southwest.com,0
+821,Southwest Gas Holdings,Energy,Las Vegas,NV,Karen S. Haller,https://www.swgasholdings.com,0
+822,Southwestern Energy,Energy,Spring,TX,William J. Way,https://www.swn.com,0
+823,SpartanNash,Wholesalers,Byron Center,MI,Tony B. Sarsam,https://www.spartannash.com,0
+824,Spectrum Brands Holdings,Household Products,Middleton,WI,David M. Maura,https://www.spectrumbrands.com,0
+825,Spire,Energy,St. Louis,MO,Suzanne Sitherwood,https://www.spireenergy.com,0
+826,Spirit AeroSystems Holdings,Aerospace & Defense,Wichita,KS,Thomas C. Gentile III,https://www.spiritaero.com,0
+827,Spirit Airlines,Transportation,Miramar,FL,Edward M. Christie III,https://www.spirit.com,0
+828,Splunk,Technology,San Francisco,CA,Gary Steele,https://www.splunk.com,0
+829,Sprague Resources,Energy,Portsmouth,NH,David C. Glendon,https://www.spragueenergy.com,0
+830,Sprouts Farmers Market,Food & Drug Stores,Phoenix,AZ,Jack L. Sinclair,https://www.sprouts.com,0
+831,SS&C Technologies Holdings,Technology,Windsor,CT,William C. Stone,https://www.ssctech.com,0
+832,Stanley Black & Decker,Household Products,New Britain,CT,Donald Allan Jr.,https://www.stanleyblackanddecker.com,0
+833,Starbucks,"Hotels, Restaurants & Leisure",Seattle,WA,Howard D. Schultz,www.starbucks.com,0
+834,State Farm Insurance,Financials,Bloomington,IL,Michael L. Tipsord,www.statefarm.com,0
+835,State Street,Financials,Boston,MA,Ronald P. O&#039;Hanley,https://www.statestreet.com,0
+836,Steel Dynamics,Materials,Fort Wayne,IN,Mark D. Millett,https://www.steeldynamics.com,0
+837,Steelcase,Household Products,Grand Rapids,MI,Sara E. Armbruster,https://www.steelcase.com,0
+838,Stepan,Chemicals,Northbrook,IL,Scott R. Behrens,https://www.stepan.com,0
+839,Stericycle,Business Services,Bannockburn,IL,Cindy J. Miller,https://www.stericycle.com,0
+840,Stewart Information Services,Financials,Houston,TX,Frederick Eppinger,https://www.stewart.com,0
+841,Stifel Financial,Financials,St. Louis,MO,Ronald J. Kruszewski,https://www.stifel.com,0
+842,StoneX Group,Financials,New York,NY,Sean M. O&#039;Connor,www.stonex.com,0
+843,Stryker,Health Care,Kalamazoo,MI,Kevin A. Lobo,https://www.stryker.com,0
+844,Summit Materials,Materials,Denver,CO,Anne P. Noonan,https://www.summit-materials.com,0
+845,Sun Communities,Financials,Southfield,MI,Gary A. Shiffman,https://www.suncommunities.com,0
+846,Super Micro Computer,Technology,San Jose,CA,Charles Liang,https://www.supermicro.com,0
+847,Surgery Partners,Health Care,Brentwood,TN,J. Eric Evans,https://www.surgerypartners.com,0
+848,SVB Financial Group,Financials,Santa Clara,CA,Gregory W. Becker,https://www.svb.com,0
+849,Synchrony Financial,Financials,Stamford,CT,Brian D. Doubles,https://www.synchronyfinancial.com,0
+850,Syneos Health,Health Care,Morrisville,NC,Michelle Keefe,https://www.syneoshealth.com,0
+851,Synopsys,Technology,Mountain View,CA,Aart J. de Geus,https://www.synopsys.com,0
+852,Sysco,Wholesalers,Houston,TX,Kevin P. Hourican,www.sysco.com,0
+853,T. Rowe Price,Financials,Baltimore,MD,Robert W. Sharps,https://www.troweprice.com,0
+854,Take-Two Interactive Software,Media,New York,NY,Strauss H. Zelnick,https://www.take2games.com,0
+855,Tapestry,Apparel,New York,NY,Joanne C. Crevoiserat,https://www.tapestry.com,0
+856,Targa Resources,Energy,Houston,TX,Matthew J. Meloy,https://www.targaresources.com,0
+857,Target,Retailing,Minneapolis,MN,Brian C. Cornell,www.target.com,0
+858,Taylor Morrison Home,Engineering & Construction,Scottsdale,AZ,Sheryl D. Palmer,https://www.taylormorrison.com,0
+859,TD Synnex,Wholesalers,Fremont,CA,Richard T. Hume,www.tdsynnex.com,0
+860,TEGNA,Media,Tysons,VA,David T. Lougee,https://www.tegna.com,0
+861,Teledyne Technologies,Aerospace & Defense,Thousand Oaks,CA,Robert Mehrabian,https://www.teledyne.com,0
+862,Teleflex,Health Care,Wayne,PA,Liam J. Kelly,https://www.teleflex.com,0
+863,Telephone & Data Systems,Telecommunications,Chicago,IL,LeRoy T. Carlson Jr.,https://www.tdsinc.com,0
+864,Tempur Sealy International,Household Products,Lexington,KY,Scott Thompson,https://www.tempursealy.com,0
+865,Tenet Healthcare,Health Care,Dallas,TX,Saumya Sutaria,https://www.tenethealth.com,0
+866,Tenneco,Motor Vehicles & Parts,Lake Forest,IL,Brian J. Kesseler,https://www.tenneco.com,0
+867,Teradyne,Technology,North Reading,MA,Mark Jagiela,https://www.teradyne.com,0
+868,Terex,Industrials,Norwalk,CT,John L. Garrison Jr.,https://www.terex.com,0
+869,Tesla,Motor Vehicles & Parts,Austin,TX,Elon Musk,www.tesla.com,0
+870,Tetra Tech,Engineering & Construction,Pasadena,CA,Dan L. Batrack,https://www.tetratech.com,0
+871,Texas Instruments,Technology,Dallas,TX,Richard K. Templeton,https://www.ti.com,0
+872,Texas Roadhouse,"Hotels, Restaurants & Leisure",Louisville,KY,Gerald L. Morgan,https://www.texasroadhouse.com,0
+873,Textron,Aerospace & Defense,Providence,RI,Scott C. Donnelly,https://www.textron.com,0
+874,Thermo Fisher Scientific,Technology,Waltham,MA,Marc Casper,https://www.thermofisher.com,0
+875,Thor Industries,Motor Vehicles & Parts,Elkhart,IN,Robert Martin,https://www.thorindustries.com,0
+876,Thrivent Financial for Lutherans,Financials,Minneapolis,MN,Teresa J. Rasmussen,https://www.thrivent.com,0
+877,TIAA,Financials,New York,NY,Thasunda Brown Duckett,www.tiaa.org,0
+878,Timken,Industrials,North Canton,OH,Richard G. Kyle,https://www.timken.com,0
+879,TJX,Retailing,Framingham,MA,Ernie L. Herrman,www.tjx.com,0
+880,Toll Brothers,Engineering & Construction,Fort Washington,PA,Douglas C. Yearley Jr.,https://www.tollbrothers.com,0
+881,TopBuild,Engineering & Construction,Daytona Beach,FL,Robert M. Buck,https://www.topbuild.com,0
+882,Topgolf Callaway Brands,"Hotels, Restaurants & Leisure",Carlsbad,CA,Oliver G. Brewer III,https://www.callawaygolf.com,0
+883,Toro,Industrials,Bloomington,MN,Richard M. Olson,https://www.thetorocompany.com,0
+884,TPG,Financials,Fort Worth,TX,Jon Winkelried,https://www.tpg.com,0
+885,Tractor Supply,Retailing,Brentwood,TN,Harry A. Lawton III,https://www.tractorsupply.com,0
+886,TransDigm Group,Aerospace & Defense,Cleveland,OH,Kevin M. Stein,https://www.transdigm.com,0
+887,TransUnion,Business Services,Chicago,IL,Christopher A. Cartwright,https://www.transunion.com,0
+888,Travel + Leisure,"Hotels, Restaurants & Leisure",Orlando,FL,Michael D. Brown,https://www.travelandleisureco.com,0
+889,TravelCenters of America,Retailing,Westlake,OH,Jonathan M. Pertchik,https://www.ta-petro.com,0
+890,Travelers,Financials,New York,NY,Alan D. Schnitzer,www.travelers.com,0
+891,TreeHouse Foods,"Food, Beverages & Tobacco",Oak Brook,IL,Steven T. Oakland,https://www.treehousefoods.com,0
+892,Tri Pointe Homes,Engineering & Construction,Incline Village,NV,Douglas F. Bauer,https://www.tripointehomes.com,0
+893,Trimble,Technology,Sunnyvale,CA,Robert G. Painter,https://www.trimble.com,0
+894,TriNet Group,Business Services,Dublin,CA,Burton M. Goldfield,https://www.trinet.com,0
+895,TrueBlue,Business Services,Tacoma,WA,Steven C. Cooper,https://www.trueblue.com,0
+896,Truist Financial,Financials,Charlotte,NC,William H. Rogers Jr.,https://www.truist.com,0
+897,TTEC Holdings,Technology,Englewood,CO,Kenneth D. Tuchman,https://www.ttec.com,0
+898,TTM Technologies,Technology,Santa Ana,CA,Thomas T. Edman,https://www.ttm.com,0
+899,Tutor Perini,Engineering & Construction,Sylmar,CA,Ronald N. Tutor,https://www.tutorperini.com,0
+900,Twilio,Technology,San Francisco,CA,Jeff Lawson,https://www.twilio.com,0
+901,Twitter,Technology,San Francisco,CA,Elon Musk,https://www.twitter.com,0
+902,Tyson Foods,"Food, Beverages & Tobacco",Springdale,AR,Donnie D. King,www.tysonfoods.com,0
+903,U.S. Bancorp,Financials,Minneapolis,MN,Andrew J. Cecere,https://www.usbank.com,0
+904,Uber Technologies,Technology,San Francisco,CA,Dara Khosrowshahi,https://www.uber.com,0
+905,UFP Industries,Materials,Grand Rapids,MI,Matthew Missad,https://www.ufpi.com,0
+906,UGI,Energy,King of Prussia,PA,Roger Perreault,https://www.ugicorp.com,0
+907,Ulta Beauty,Retailing,Bolingbrook,IL,David C. Kimbell,https://www.ulta.com,0
+908,Under Armour,Apparel,Baltimore,MD,Colin Browne,https://https://about.underarmour.com,0
+909,Union Pacific,Transportation,Omaha,NE,Lance M. Fritz,https://www.up.com,0
+910,United Airlines Holdings,Transportation,Chicago,IL,J. Scott Kirby,https://www.united.com,0
+911,United Natural Foods,Wholesalers,Providence,RI,Sandy Douglas,https://www.unfi.com,0
+912,United Parcel Service,Transportation,Atlanta,GA,Carol B. TomÃ©,www.ups.com,0
+913,United Rentals,Business Services,Stamford,CT,Matthew J. Flannery,https://www.unitedrentals.com,0
+914,United States Steel,Materials,Pittsburgh,PA,David B. Burritt,https://www.ussteel.com,0
+915,UnitedHealth Group,Health Care,Minnetonka,MN,Andrew P. Witty,www.unitedhealthgroup.com,0
+916,Univar Solutions,Wholesalers,Downers Grove,IL,David C. Jukes,https://www.univarsolutions.com,0
+917,Universal Health Services,Health Care,King of Prussia,PA,Marc D. Miller,https://www.uhsinc.com,0
+918,Univision Communciations,Media,New York,NY,Wade C. Davis,https://https://corporate.televisaunivision.com,0
+919,Unum Group,Financials,Chattanooga,TN,Richard P. McKenney,https://www.unum.com,0
+920,Urban Outfitters,Retailing,Philadelphia,PA,Richard A. Hayne,https://www.urbn.com,0
+921,US Foods Holding,Wholesalers,Rosemont,IL,Andrew Iacobucci,www.usfoods.com,0
+922,USAA,Financials,San Antonio,TX,Wayne Peacock,www.usaa.com,0
+923,UWM Holdings,Financials,Pontiac,MI,Mathew R. Ishbia,https://www.uwm.com,0
+924,Valero Energy,Energy,San Antonio,TX,Joseph W. Gorder,www.valero.com,0
+925,Valhi,Chemicals,Dallas,TX,Robert D. Graham,https://www.valhi.net,0
+926,Valmont Industries,Materials,Omaha,NE,Stephen G. Kaniewski,https://www.valmont.com,0
+927,Valvoline,Chemicals,Lexington,KY,Samuel J. Mitchell Jr.,https://www.valvoline.com,0
+928,Ventas,Financials,Chicago,IL,Debra A. Cafaro,https://www.ventasreit.com,0
+929,Verisk Analytics,Business Services,Jersey City,NJ,Lee M. Shavel,https://www.verisk.com,0
+930,Veritiv,Wholesalers,Atlanta,GA,Salvatore A. Abbate,https://www.veritivcorp.com,0
+931,Verizon Communications,Telecommunications,New York,NY,Hans E. Vestberg,www.verizon.com,0
+932,Vertex Pharmaceuticals,Health Care,Boston,MA,Reshma Kewalramani,https://www.vrtx.com,0
+933,Vertiv Holdings,Industrials,Columbus,OH,Robert J. Johnson,https://www.vertiv.com,0
+934,VF Corp.,Apparel,Denver,CO,Steven Rendle,https://www.vfc.com,0
+935,Viasat,Technology,Carlsbad,CA,Mark D. Dankberg,https://www.viasat.com,0
+936,Viatris,Health Care,Canonsburg,PA,Michael Goettler,https://www.viatris.com,0
+937,Victoria's Secret,Retailing,Reynoldsburg,OH,Martin P. Waters,https://www.victoriassecretandco.com,0
+938,Virtu Financial,Financials,New York,NY,Douglas Cifu,https://www.virtu.com,0
+939,Visa,Business Services,San Francisco,CA,Alfred F. Kelly Jr.,https://www.visa.com,0
+940,Vishay Intertechnology,Technology,Malvern,PA,Gerald Paul,https://www.vishay.com,0
+941,Vista Outdoor,Business Services,Anoka,MN,Christopher T. Metz,https://www.vistaoutdoor.com,0
+942,Visteon,Motor Vehicles & Parts,Van Buren Township,MI,Sachin S. Lawande,https://www.visteon.com,0
+943,Vistra,Energy,Irving,TX,James A. Burke,https://www.vistracorp.com,0
+944,Vizio Holding,Industrials,Irvine,CA,William W. Wang,https://www.vizio.com,0
+945,Vontier,Technology,Raleigh,NC,Mark D. Morelli,https://www.vontier.com,0
+946,Voya Financial,Financials,New York,NY,Rodney O. Martin Jr.,https://www.voya.com,0
+947,Vroom,Retailing,New York,NY,Thomas H. Shortt,https://www.vroom.com,0
+948,Vulcan Materials,Materials,Birmingham,AL,J. Thomas Hill,https://www.vulcanmaterials.com,0
+949,W.R. Berkley,Financials,Greenwich,CT,W. Robert Berkley Jr.,https://www.berkley.com,0
+950,W.W. Grainger,Wholesalers,Lake Forest,IL,D.G. Macpherson,https://www.grainger.com,0
+951,Walgreens Boots Alliance,Food & Drug Stores,Deerfield,IL,Roz Brewer,www.walgreensbootsalliance.com,0
+952,Walmart,Retailing,Bentonville,AR,C. Douglas McMillon,https://www.stock.walmart.com,0
+953,Walt Disney,Media,Burbank,CA,Robert A. Chapek,www.thewaltdisneycompany.com,0
+954,Warner Bros. Discovery,Media,New York,NY,David M. Zaslav,https://https://wbd.com,0
+955,Warner Music Group,Media,New York,NY,Stephen F. Cooper,https://www.wmg.com,0
+956,Waste Management,Business Services,Houston,TX,James C. Fish Jr.,https://www.wm.com,0
+957,Waters,Technology,Milford,MA,Udit Batra,https://www.waters.com,0
+958,Watsco,Wholesalers,Miami,FL,Albert H. Nahmad,https://www.watsco.com,0
+959,Wayfair,Retailing,Boston,MA,Niraj S. Shah,https://www.wayfair.com,0
+960,WEC Energy Group,Energy,Milwaukee,WI,Scott J. Lauber,https://www.wecenergygroup.com,0
+961,Weis Markets,Food & Drug Stores,Sunbury,PA,Jonathan H. Weis,https://www.weismarkets.com,0
+962,Wells Fargo,Financials,San Francisco,CA,Charles W. Scharf,www.wellsfargo.com,0
+963,Welltower,Financials,Toledo,OH,Shankh S. Mitra,https://www.welltower.com,0
+964,Werner Enterprises,Transportation,Omaha,NE,Derek J. Leathers,https://www.werner.com,0
+965,WESCO International,Wholesalers,Pittsburgh,PA,John J. Engel,https://www.wesco.com,0
+966,West Pharmaceutical Services,Health Care,Exton,PA,Eric M. Green,https://www.westpharma.com,0
+967,Western & Southern Financial Group,Financials,Cincinnati,OH,John F. Barrett,https://www.westernsouthern.com,0
+968,Western Digital,Technology,San Jose,CA,David V. Goeckeler,https://www.westerndigital.com,0
+969,Western Midstream Partners,Energy,The Woodlands,TX,MIchael P. Ure,https://www.westernmidstream.com,0
+970,Western Union,Business Services,Denver,CO,Devin B. McGranahan,https://www.westernunion.com,0
+971,Westinghouse Air Brake Technologies,Industrials,Pittsburgh,PA,Rafael O. Santana,https://www.wabteccorp.com,0
+972,Westlake,Chemicals,Houston,TX,Albert Yuan Chao,https://www.westlake.com,0
+973,WestRock,Materials,Atlanta,GA,David B. Sewell,https://www.westrock.com,0
+974,WeWork,Financials,New York,NY,Sandeep Mathrani,https://www.wework.com,0
+975,Weyerhaeuser,Materials,Seattle,WA,Devin W. Stockfish,https://www.weyerhaeuser.com,0
+976,Whirlpool,Industrials,Benton Harbor,MI,Marc R. Bitzer,https://www.whirlpoolcorp.com,0
+977,Williams,Energy,Tulsa,OK,Alan S. Armstrong,https://www.williams.com,0
+978,Williams-Sonoma,Retailing,San Francisco,CA,Laura J. Alber,https://www.williams-sonomainc.com,0
+979,Winnebago Industries,Motor Vehicles & Parts,Eden Prairie,MN,Michael Happe,https://www.winnebagoind.com,0
+980,Wolverine World Wide,Apparel,Rockford,MI,Brendan L. Hoffman,https://www.wolverineworldwide.com,0
+981,Woodward,Aerospace & Defense,Fort Collins,CO,Charles Blankenship Jr.,https://www.woodward.com,0
+982,Workday,Technology,Pleasanton,CA,#REF!,https://www.workday.com,0
+983,World Fuel Services,Energy,Miami,FL,Michael J. Kasbar,www.wfscorp.com,0
+984,Worthington Industries,Materials,Columbus,OH,B. Andrew Rose,https://www.worthingtonindustries.com,0
+985,Wynn Resorts,"Hotels, Restaurants & Leisure",Las Vegas,NV,Craig S. Billings,https://www.wynnresorts.com,0
+986,Xcel Energy,Energy,Minneapolis,MN,Robert C. Frenzel,https://www.xcelenergy.com,0
+987,Xerox Holdings,Technology,Norwalk,CT,Steve Bandrowczak,https://www.xerox.com,0
+988,Xilinx,Technology,San Jose,CA,Lisa T. Su,https://www.xilinx.com,0
+989,XPO Logistics,Transportation,Greenwich,CT,Brad Jacobs,https://www.xpo.com,0
+990,Xylem,Industrials,Washington,DC,Patrick K. Decker,https://www.xylem.com,0
+991,Yellow,Transportation,Nashville,TN,Darren D. Hawkins,https://www.myyellow.com,0
+992,Yum Brands,"Hotels, Restaurants & Leisure",Louisville,KY,David W. Gibbs,https://www.yum.com,0
+993,Yum China Holdings,"Hotels, Restaurants & Leisure",Plano,TX,Joey Wat,https://ir.yumchina.com,0
+994,Zebra Technologies,Industrials,Lincolnshire,IL,Anders Gustafsson,https://www.zebra.com,0
+995,Zillow Group,Technology,Seattle,WA,Richard N. Barton,https://www.zillowgroup.com,0
+996,Zimmer Biomet Holdings,Health Care,Warsaw,IN,Bryan C. Hanson,https://www.zimmerbiomet.com,0
+997,Zions Bancorp.,Financials,Salt Lake City,UT,Harris H. Simmons,https://www.zionsbancorporation.com,0
+998,Zoetis,Health Care,Parsippany,NJ,Kristin Peck,https://www.zoetis.com,0
+999,Zoom Video Communications,Technology,San Jose,CA,Eric Yuan,https://www.zoom.us,0
+1000,Zynga,Media,San Francisco,CA,Frank D. Gibeau,https://www.zynga.com,0
