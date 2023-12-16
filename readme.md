@@ -57,7 +57,6 @@ The structure is defined with primary keys, foreign keys, and constraints to ens
 Make sure you have the latest versions installed to ensure compatibility and security.
 
 
-```markdown
 ## Quick Start
 
 To set up and launch the job search platform on your local machine, follow these steps:
@@ -113,12 +112,6 @@ Remember to replace `<repository-url>`, `<project-directory>`, `<username>`, `<d
 ```
 
 Just replace the angle-bracketed placeholders (e.g., `<repository-url>`, `<your_username>`) with the actual values for your project setup.
-
-## Quick Start
-1. **Setup:** Clone the repository and install dependencies.
-2. **Database:** Initialize the MySQL database with the provided schema.
-3. **Server:** Start the backend server using Node.js.
-4. **Client:** Launch the React.js frontend application.
 
 ## Contribution
 - Contributions are welcome! Feel free to submit pull requests or open issues.
