@@ -117,6 +117,3 @@ Just replace the angle-bracketed placeholders (e.g., `<repository-url>`, `<your_
 - Contributions are welcome! Feel free to submit pull requests or open issues.
 
 Thank you for exploring our job search platform project!
-
-Certainly! Here is a single block of text formatted for Markdown that you can copy and paste directly into your README file:
-
