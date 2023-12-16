@@ -1,10 +1,14 @@
 # Job Search Platform Schema Documentation
 
 ## Introduction
-Welcome to the GitHub repository for our Job Search Platform Project! This project aims to provide an efficient and user-friendly way for candidates to connect with employers and recruiters in the job market. The schema design represents the backbone of our application, ensuring data integrity and optimizing the relationships between different entities involved in the job search process.
+- A comprehensive platform for job seekers, employers, and recruiters.
+- Designed to streamline the job search and hiring process.
 
 ## Schema Overview
-The schema is meticulously designed to handle the complexities of a job search application. It consists of several interrelated tables that cater to different facets of the job search process, including user management, job listings, applications, and skills matching.
+- A relational database schema that efficiently organizes and manages job search data.
+- Ensures data integrity and facilitates complex queries.
+
+![UML Diagram](UML_diagram.jpeg)
 
 ### Architecture
 The database is organized into tables representing different entities:
@@ -26,44 +30,39 @@ The structure is defined with primary keys, foreign keys, and constraints to ens
 - `CHECK` constraints for validating data such as age and gender.
 - Foreign key relationships to maintain referential integrity between tables.
 
-### Purpose
-The purpose of this schema is to:
-
-- Provide a robust framework for storing and retrieving job-related data.
-- Facilitate advanced queries for job matching based on skills, experience, and roles.
-- Support the application's functionality for job applications, listings, and user management.
+## Key Features
+- **User Management:** Distinct tables for candidates, recruiters, and employers.
+- **Job Listings:** Detailed job descriptions with roles, salaries, and status.
+- **Skills Matching:** Associates skills with jobs and candidates for precise matching.
+- **Application Tracking:** Logs every application's progress and final status.
 
 ## Real-World Application
-In the real world, this schema enables a dynamic job search platform where:
+- **Career Progression:** Enables candidates to find opportunities that match their career aspirations.
+- **Talent Acquisition:** Assists employers in discovering candidates with the desired skill set.
+- **Recruitment Process:** Streamlines the recruitment workflow for efficiency.
 
-- Candidates can find jobs that match their skills and experience.
-- Employers can list job openings and find suitable candidates.
-- Recruiters can facilitate the hiring process by connecting candidates with employers.
-- Users can manage their profiles, apply for jobs, and track application status.
-
-## Tech Stack
-To execute this project on a Windows/macOS machine, you will need:
-
-- Database: MySQL
-- Backend: Node.js
-- Frontend: React.js
-- Package Manager: npm or Yarn
-- Version Control: Git
+## Tech Stack and Libraries
+- **Database:** MySQL for data storage and management.
+- **Backend:** Node.js for server-side logic.
+  - **Express.js:** Web application framework for Node.js to handle HTTP requests.
+- **Frontend:** React.js for a responsive user interface.
+  - **React Router:** Declarative routing for React applications.
+  - **Axios:** Promise-based HTTP client for making API calls.
+- **Package Manager:** npm or Yarn for managing dependencies.
+  - **npm:** Node package manager for installing and managing node libraries.
+  - **Yarn:** Fast, reliable, and secure dependency management.
+- **Version Control:** Git for source code management.
+  - **GitHub:** Hosting for software development and version control using Git.
 
 Make sure you have the latest versions installed to ensure compatibility and security.
 
-## Getting Started
-1. Clone this repository.
-2. Install the required dependencies using `npm install` or `yarn install`.
-3. Set up your MySQL database and import the schema.
-4. Configure your environment variables for database access.
-5. Run the backend server with `node server.js` (or use nodemon for development).
-6. Start the React frontend with `npm start` or `yarn start`.
+## Quick Start
+1. **Setup:** Clone the repository and install dependencies.
+2. **Database:** Initialize the MySQL database with the provided schema.
+3. **Server:** Start the backend server using Node.js.
+4. **Client:** Launch the React.js frontend application.
 
-Your local development server should now be up and running, and you can begin testing the application.
+## Contribution
+- Contributions are welcome! Feel free to submit pull requests or open issues.
 
----
-
-We encourage contributions to this project! If you have ideas for improvements or find any issues, please feel free to open an issue or submit a pull request.
-
-Thank you for checking out our job search platform project!
+Thank you for exploring our job search platform project!
