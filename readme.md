@@ -41,6 +41,25 @@ The structure is defined with primary keys, foreign keys, and constraints to ens
 - **Talent Acquisition:** Assists employers in discovering candidates with the desired skill set.
 - **Recruitment Process:** Streamlines the recruitment workflow for efficiency.
 
+## Insights
+
+Our platform leverages detailed analytics to empower users with actionable insights, tailored to both candidates and recruiters.
+
+### For Candidates
+- **Most Demanded Skills**: Discover the top skills that employers are currently seeking, guiding you on what to learn next.
+- **Job Applications Analysis**: Insight into job roles you've applied for but haven't been successful, helping you identify areas for improvement.
+- **Skill-Specific Job Opportunities**: Find out which companies are looking for your specific skill set.
+- **Popular Job Roles**: Understand the most sought-after job roles within your age group, helping you gauge the competition and demand.
+
+### For Recruiters
+- **Recruitment Domain Diversity**: Identify how diversified your recruitment efforts are across different domains.
+- **Salary Benchmarking**: Gain an understanding of the average salary offered by competitors for similar roles, ensuring competitive offers.
+- **Skill Gap Analysis**: Recognize skills that are in demand but not currently met by any candidate in the database, highlighting potential areas for candidate training and development.
+- **Predominant Recruiters**: See how your recruitment efforts stack up against others in your domain.
+- **Job Role Popularity**: Determine the popularity of job roles among candidates, aiding in strategic decision-making for future postings.
+
+These insights are derived from our robust query system, which processes real-time data to deliver the most up-to-date market trends and analysis.
+
 ## Tech Stack and Libraries
 - **Database:** MySQL for data storage and management.
 - **Backend:** Node.js for server-side logic.
